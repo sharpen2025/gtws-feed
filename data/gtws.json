@@ -1,0 +1,1925 @@
+{
+  "updatedAt": "2026-09-21T12:39:00+09:00",
+  "updatedDate": "2026-09-21",
+  "updatedTime": "12:39",
+  "edition": 2026,
+  "counts": {
+    "nextUp": 3,
+    "races": 20,
+    "men": 100,
+    "women": 100
+  },
+  "nextUp": [
+    {
+      "date": "27/09/2026",
+      "country": "cn",
+      "series": "World Series",
+      "name": "JINSHANLING GREAT WALL TRAIL RACE",
+      "tagline": "The Wonderwall",
+      "distance": "23,1 km",
+      "elevation": "1,667 m",
+      "capacity": "3,000",
+      "url": "https://goldentrailseries.com/race/jinshanling-great-wall-trail-race/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/web-@rising.story-@mathisdecroux_GreatWallChina_04-26-00172.jpg",
+      "dateISO": "2026-09-27"
+    },
+    {
+      "date": "04/10/2026",
+      "country": "es",
+      "series": "National Series",
+      "name": "SALOMON MITJA PIRINEU",
+      "tagline": "The best views of Pedraforca",
+      "distance": "21 km",
+      "elevation": "1,400 m",
+      "capacity": "1,000",
+      "url": "https://goldentrailseries.com/race/salomon-mitja-pirineu/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94.jpg",
+      "dateISO": "2026-10-04"
+    },
+    {
+      "date": "24/10/2026",
+      "country": "kr",
+      "series": "World Series",
+      "name": "MUJU TRAIL GRAND FINALE",
+      "tagline": "Stitched by strides",
+      "distance": "25,6 km",
+      "elevation": "2,294 m",
+      "capacity": "5,000",
+      "url": "https://goldentrailseries.com/race/muju-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
+      "dateISO": "2026-10-24"
+    }
+  ],
+  "races": [
+    {
+      "date": "08/03/2026",
+      "country": "au",
+      "series": "National Series",
+      "name": "WARBURTON TRAIL FESTIVAl",
+      "tagline": "Donna Double",
+      "distance": "22 km",
+      "elevation": "1,333 m",
+      "capacity": "",
+      "url": "https://goldentrailseries.com/race/warburton-trail-festival/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NEW-SAVE-Salomon-Warburton-Trail-Fest-2546-1.jpg",
+      "dateISO": "2026-03-08"
+    },
+    {
+      "date": "15/03/2026",
+      "country": "cn",
+      "series": "National Series",
+      "name": "TRAIL DONGHAI",
+      "tagline": "The Coastal Course",
+      "distance": "30 km",
+      "elevation": "1,412 m",
+      "capacity": "2,000",
+      "url": "https://goldentrailseries.com/race/trail-donghai/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-微信图片_20251218183727_24_154.jpg",
+      "dateISO": "2026-03-15"
+    },
+    {
+      "date": "22/03/2026",
+      "country": "fr",
+      "series": "National Series",
+      "name": "SALOMON ECOTRAIL PARIS",
+      "tagline": "The Urban Wild",
+      "distance": "35 km",
+      "elevation": "830 m",
+      "capacity": "2,000",
+      "url": "https://goldentrailseries.com/race/salomon-ecotrail-paris/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/Salomon-Ecotrail-Paris-6.jpg",
+      "dateISO": "2026-03-22"
+    },
+    {
+      "date": "19/04/2026",
+      "country": "cn",
+      "series": "National Series",
+      "name": "NINE PEAKS GRANDMASTER CHALLENGE BY TSAIGU",
+      "tagline": "China’s Sierre-Zinal",
+      "distance": "2,079 km",
+      "elevation": "30 m",
+      "capacity": "1,800",
+      "url": "https://goldentrailseries.com/race/nine-peaks-grandmaster-challenge-by-tsaigu/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NINE-PEAKS-GRANDMASTER-CHALLENGE-BY-TSAIGU-2.jpg",
+      "dateISO": "2026-04-19"
+    },
+    {
+      "date": "26/04/2026",
+      "country": "cn",
+      "series": "National Series",
+      "name": "YANG JIANG YANGCHUN JILONGDING AZALEA TRAIL RUNNING RACE",
+      "tagline": "Blooming mountain adventure",
+      "distance": "30 km",
+      "elevation": "1,529 m",
+      "capacity": "1,500",
+      "url": "https://goldentrailseries.com/race/yang-jiang-yangchun-jilongding-azalea-trail-running-race/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/YANG-JIANG-YANGCHUN-JILONGDING-AZALEA-TRAIL-RUNNING-RACE-2.jpg",
+      "dateISO": "2026-04-26"
+    },
+    {
+      "date": "17/05/2026",
+      "country": "es",
+      "series": "World Series",
+      "name": "ZEGAMA – AIZKORRI",
+      "tagline": "The Basque Fever",
+      "distance": "42 km",
+      "elevation": "2,745 m",
+      "capacity": "500",
+      "url": "https://goldentrailseries.com/race/zegama-aizkorri/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@Rising.Story-@JustinGalant_Zegama_25-05-25-169.jpg",
+      "dateISO": "2026-05-17"
+    },
+    {
+      "date": "17/05/2026",
+      "country": "cn",
+      "series": "National Series",
+      "name": "CFTT SHENNONGJIA ULTRA RACE (S-ULTRA)",
+      "tagline": "The four seasons race",
+      "distance": "28 km",
+      "elevation": "2,186 m",
+      "capacity": "1,300",
+      "url": "https://goldentrailseries.com/race/cftt-shennongjia-ultra-race/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/CFTT-SHENNONGJIA-ULTRA-RACE-S-ULTRA-1.jpg",
+      "dateISO": "2026-05-17"
+    },
+    {
+      "date": "24/05/2026",
+      "country": "it",
+      "series": "World Series",
+      "name": "LEDRO SKY TRENTINO",
+      "tagline": "Wild peaks, trenchline trails",
+      "distance": "28,8 km",
+      "elevation": "1,775 m",
+      "capacity": "500",
+      "url": "https://goldentrailseries.com/race/ledro-sky-trentino/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@antho.dx_Ledro_Sky_12-10-2025-09371-2.jpg",
+      "dateISO": "2026-05-24"
+    },
+    {
+      "date": "30/05/2026",
+      "country": "cn",
+      "series": "National Series",
+      "name": "FOUR SISTERS MOUNTAIN MECONOPSIS TRAIL",
+      "tagline": "GTNS China Grand Finale",
+      "distance": "22 km",
+      "elevation": "1,407 m",
+      "capacity": "500",
+      "url": "https://goldentrailseries.com/race/four-sisters-mountain-meconopsis-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/four-sisters-mountain-race-1.jpg",
+      "dateISO": "2026-05-30"
+    },
+    {
+      "date": "05/07/2026",
+      "country": "ca",
+      "series": "World Series",
+      "name": "QUÉBEC MEGA TRAIL",
+      "tagline": "The Beast of the East",
+      "distance": "28,6 km",
+      "elevation": "1.397 m",
+      "capacity": "500",
+      "url": "https://goldentrailseries.com/race/quebec-mega-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/QMT-2023-Credit-QMT-scaled.jpg",
+      "dateISO": "2026-07-05"
+    },
+    {
+      "date": "12/07/2026",
+      "country": "it",
+      "series": "National Series",
+      "name": "DOLOMYTHS RUN",
+      "tagline": "From the heart of Canazei to the sky of Piz Boè",
+      "distance": "21,7 km",
+      "elevation": "1,764 m",
+      "capacity": "800",
+      "url": "https://goldentrailseries.com/race/dolomyths-run/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-DJI_20250421083600_0070_D.jpg",
+      "dateISO": "2026-07-12"
+    },
+    {
+      "date": "17/07/2026",
+      "country": "pl",
+      "series": "National Series",
+      "name": "GOLDEN MOUNTAINS TRAIL",
+      "tagline": "The trail festival",
+      "distance": "33 km",
+      "elevation": "1,500 m",
+      "capacity": "750",
+      "url": "https://goldentrailseries.com/race/golden-mountains-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-NA-TRASIE-1.jpg",
+      "dateISO": "2026-07-17"
+    },
+    {
+      "date": "01/08/2026",
+      "country": "at",
+      "series": "World Series",
+      "name": "SALOMON PITZ ALPINE GLACIER TRAIL",
+      "tagline": "Where glaciers meet the sky",
+      "distance": "24,5 km",
+      "elevation": "1,618 m",
+      "capacity": "",
+      "url": "https://goldentrailseries.com/race/salomon-pitz-alpine-glacier-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_PitzAlpineGlacier_02-08-25-196.jpg",
+      "dateISO": "2026-08-01"
+    },
+    {
+      "date": "08/08/2026",
+      "country": "ch",
+      "series": "World Series",
+      "name": "SIERRE-ZINAL",
+      "tagline": "Fast and furious",
+      "distance": "31 km",
+      "elevation": "2,133 m",
+      "capacity": "6,300",
+      "url": "https://goldentrailseries.com/race/sierre-zinal/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_SierreZinal_09-08-25-62.jpg",
+      "dateISO": "2026-08-08"
+    },
+    {
+      "date": "08/08/2026",
+      "country": "mx",
+      "series": "National Series",
+      "name": "TEPEC TRAIL ZAPOTITLAN SALINAS",
+      "tagline": "Magic Mountains",
+      "distance": "36 km",
+      "elevation": "1,800 m",
+      "capacity": "450",
+      "url": "https://goldentrailseries.com/race/tepec-trail-zapotitlan-salinas/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/MF_012826_Zapotitlan_0196.jpg",
+      "dateISO": "2026-08-08"
+    },
+    {
+      "date": "22/08/2026",
+      "country": "cz",
+      "series": "National Series",
+      "name": "SALOMON JESENICKY MARATON",
+      "tagline": "A dreamy landscape",
+      "distance": "21 km",
+      "elevation": "730 m",
+      "capacity": "",
+      "url": "https://goldentrailseries.com/race/salomon-jesenicky-maraton/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-JM_3.jpg",
+      "dateISO": "2026-08-22"
+    },
+    {
+      "date": "20/09/2026",
+      "country": "jp",
+      "series": "World Series",
+      "name": "MYOKO TRAIL",
+      "tagline": "Double up, double down",
+      "distance": "24,7 km",
+      "elevation": "2,020 m",
+      "capacity": "400",
+      "url": "https://goldentrailseries.com/race/myoko-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/2022_myoko_072.jpg",
+      "dateISO": "2026-09-20"
+    },
+    {
+      "date": "27/09/2026",
+      "country": "cn",
+      "series": "World Series",
+      "name": "JINSHANLING GREAT WALL TRAIL RACE",
+      "tagline": "The Wonderwall",
+      "distance": "23,1 km",
+      "elevation": "1,667 m",
+      "capacity": "3,000",
+      "url": "https://goldentrailseries.com/race/jinshanling-great-wall-trail-race/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/web-@rising.story-@mathisdecroux_GreatWallChina_04-26-00172.jpg",
+      "dateISO": "2026-09-27"
+    },
+    {
+      "date": "04/10/2026",
+      "country": "es",
+      "series": "National Series",
+      "name": "SALOMON MITJA PIRINEU",
+      "tagline": "The best views of Pedraforca",
+      "distance": "21 km",
+      "elevation": "1,400 m",
+      "capacity": "1,000",
+      "url": "https://goldentrailseries.com/race/salomon-mitja-pirineu/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94.jpg",
+      "dateISO": "2026-10-04"
+    },
+    {
+      "date": "24/10/2026",
+      "country": "kr",
+      "series": "World Series",
+      "name": "MUJU TRAIL GRAND FINALE",
+      "tagline": "Stitched by strides",
+      "distance": "25,6 km",
+      "elevation": "2,294 m",
+      "capacity": "5,000",
+      "url": "https://goldentrailseries.com/race/muju-trail/",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
+      "dateISO": "2026-10-24"
+    }
+  ],
+  "ranking": {
+    "men": [
+      {
+        "rank": 1,
+        "name": "PHILEMON OMBOGO KIRIAGO",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 860,
+        "raceCount": 4
+      },
+      {
+        "rank": 2,
+        "name": "ELHOUSINE ELAZZAOUI",
+        "club": "Nnormal",
+        "country": "ma",
+        "points": 824,
+        "raceCount": 4
+      },
+      {
+        "rank": 3,
+        "name": "PATRICK KIPNGENO",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 772,
+        "raceCount": 4
+      },
+      {
+        "rank": 4,
+        "name": "MICHAEL SELELO SAOLI",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 754,
+        "raceCount": 4
+      },
+      {
+        "rank": 5,
+        "name": "EZEKIEL RUTTO",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 598,
+        "raceCount": 4
+      },
+      {
+        "rank": 6,
+        "name": "BOGDAN DAMIAN",
+        "club": "Kailas Fuga",
+        "country": "ro",
+        "points": 556,
+        "raceCount": 5
+      },
+      {
+        "rank": 7,
+        "name": "ALAIN SANTAMARÍA",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 515,
+        "raceCount": 4
+      },
+      {
+        "rank": 8,
+        "name": "TIMOTHY KIBETT",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 494,
+        "raceCount": 3
+      },
+      {
+        "rank": 9,
+        "name": "NASHON KIPLIMO",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 481,
+        "raceCount": 3
+      },
+      {
+        "rank": 10,
+        "name": "ISACCO COSTA",
+        "club": "La Sportiva",
+        "country": "it",
+        "points": 470,
+        "raceCount": 4
+      },
+      {
+        "rank": 11,
+        "name": "TAYLOR STACK",
+        "club": "Brooks",
+        "country": "us",
+        "points": 452,
+        "raceCount": 4
+      },
+      {
+        "rank": 12,
+        "name": "CHRISTIAN ALLEN",
+        "club": "Nike Acg",
+        "country": "us",
+        "points": 432,
+        "raceCount": 3
+      },
+      {
+        "rank": 13,
+        "name": "SAMWEL KIPROTICH",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 372,
+        "raceCount": 3
+      },
+      {
+        "rank": 14,
+        "name": "JONAS SOLDINI",
+        "club": "Salomon",
+        "country": "ch",
+        "points": 366,
+        "raceCount": 3
+      },
+      {
+        "rank": 15,
+        "name": "DANIEL PATTIS",
+        "club": "Brooks",
+        "country": "it",
+        "points": 324,
+        "raceCount": 2
+      },
+      {
+        "rank": 16,
+        "name": "RYUNOSUKE OMI",
+        "club": "Salomon",
+        "country": "jp",
+        "points": 318,
+        "raceCount": 3
+      },
+      {
+        "rank": 17,
+        "name": "JOEY HADORN",
+        "club": "Salomon",
+        "country": "ch",
+        "points": 306,
+        "raceCount": 3
+      },
+      {
+        "rank": 18,
+        "name": "ANDERS KJÆREVIK",
+        "club": "",
+        "country": "no",
+        "points": 299,
+        "raceCount": 4
+      },
+      {
+        "rank": 19,
+        "name": "PAUL MACHOKA",
+        "club": "Atletica Saluzzo",
+        "country": "ke",
+        "points": 296,
+        "raceCount": 2
+      },
+      {
+        "rank": 20,
+        "name": "ADAM SJOLUND",
+        "club": "Ponderosa Pirates",
+        "country": "us",
+        "points": 295,
+        "raceCount": 3
+      },
+      {
+        "rank": 21,
+        "name": "JAN TORRELLA OLLER",
+        "club": "Salomon",
+        "country": "es",
+        "points": 275,
+        "raceCount": 2
+      },
+      {
+        "rank": 22,
+        "name": "ROSS GOLLAN",
+        "club": "Nike Acg",
+        "country": "gb",
+        "points": 273,
+        "raceCount": 4
+      },
+      {
+        "rank": 23,
+        "name": "BRAYAN RODRÍGUEZ FLORES",
+        "club": "",
+        "country": "mx",
+        "points": 266,
+        "raceCount": 2
+      },
+      {
+        "rank": 24,
+        "name": "VALENTIN TOMA",
+        "club": "Csa Steaua Bucure?ti",
+        "country": "ro",
+        "points": 263,
+        "raceCount": 3
+      },
+      {
+        "rank": 25,
+        "name": "REMI LEROUX",
+        "club": "Brooks",
+        "country": "ca",
+        "points": 246,
+        "raceCount": 3
+      },
+      {
+        "rank": 26,
+        "name": "MATTIA TANARA",
+        "club": "Scott",
+        "country": "it",
+        "points": 241,
+        "raceCount": 3
+      },
+      {
+        "rank": 27,
+        "name": "TAIGA YAMAGUCHI",
+        "club": "",
+        "country": "jp",
+        "points": 221,
+        "raceCount": 3
+      },
+      {
+        "rank": 28,
+        "name": "MAEL HENRIC",
+        "club": "Salomon",
+        "country": "fr",
+        "points": 206,
+        "raceCount": 2
+      },
+      {
+        "rank": 29,
+        "name": "NICOLAS MOLINA",
+        "club": "Scott",
+        "country": "es",
+        "points": 203,
+        "raceCount": 2
+      },
+      {
+        "rank": 30,
+        "name": "DAVID NORRIS",
+        "club": "On Trail",
+        "country": "us",
+        "points": 173,
+        "raceCount": 2
+      },
+      {
+        "rank": 31,
+        "name": "NOAM FRANCHI",
+        "club": "Norda",
+        "country": "fr",
+        "points": 173,
+        "raceCount": 2
+      },
+      {
+        "rank": 32,
+        "name": "JACOB ADKIN",
+        "club": "New Balance",
+        "country": "gb",
+        "points": 172,
+        "raceCount": 1
+      },
+      {
+        "rank": 32,
+        "name": "MANUEL MERILLAS",
+        "club": "New Balance",
+        "country": "es",
+        "points": 172,
+        "raceCount": 1
+      },
+      {
+        "rank": 33,
+        "name": "EPHANTUS NJERI",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 170,
+        "raceCount": 2
+      },
+      {
+        "rank": 34,
+        "name": "REMI BONNET",
+        "club": "Salomon",
+        "country": "ch",
+        "points": 164,
+        "raceCount": 1
+      },
+      {
+        "rank": 35,
+        "name": "MASSIMILIANO BERTI",
+        "club": "Asd Sicilia Running Team",
+        "country": "it",
+        "points": 157,
+        "raceCount": 2
+      },
+      {
+        "rank": 36,
+        "name": "ROBERT PKEMOI MATAYANGO",
+        "club": "Otso",
+        "country": "ke",
+        "points": 156,
+        "raceCount": 1
+      },
+      {
+        "rank": 37,
+        "name": "ROBERTO DELORENZI",
+        "club": "Brooks",
+        "country": "ch",
+        "points": 152,
+        "raceCount": 2
+      },
+      {
+        "rank": 38,
+        "name": "JONATHAN CAMILO CASTILLO SÁENZ",
+        "club": "",
+        "country": "co",
+        "points": 146,
+        "raceCount": 1
+      },
+      {
+        "rank": 39,
+        "name": "MAXIMILIEN DRION DU CHAPOIS",
+        "club": "Asics",
+        "country": "be",
+        "points": 144,
+        "raceCount": 1
+      },
+      {
+        "rank": 40,
+        "name": "AITOR AJURIA",
+        "club": "Mirugain",
+        "country": "es",
+        "points": 144,
+        "raceCount": 1
+      },
+      {
+        "rank": 41,
+        "name": "RICHARD OMAYA ATUYA",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 142,
+        "raceCount": 1
+      },
+      {
+        "rank": 42,
+        "name": "BENJAMIN ROUBIOL",
+        "club": "Asics",
+        "country": "fr",
+        "points": 140,
+        "raceCount": 1
+      },
+      {
+        "rank": 42,
+        "name": "BRAYAN RODRÍGUEZ",
+        "club": "",
+        "country": "mx",
+        "points": 140,
+        "raceCount": 1
+      },
+      {
+        "rank": 43,
+        "name": "ANTONIO MARTÍNEZ",
+        "club": "Asics",
+        "country": "es",
+        "points": 139,
+        "raceCount": 1
+      },
+      {
+        "rank": 44,
+        "name": "LLUÍS PUIGVERT",
+        "club": "Salomon",
+        "country": "es",
+        "points": 133,
+        "raceCount": 1
+      },
+      {
+        "rank": 45,
+        "name": "ANDREA ROSTAN",
+        "club": "La Sportiva",
+        "country": "it",
+        "points": 130,
+        "raceCount": 1
+      },
+      {
+        "rank": 45,
+        "name": "MANUEL INNERHOFER",
+        "club": "Lowa",
+        "country": "at",
+        "points": 130,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "CALLUM SHERRY",
+        "club": "",
+        "country": "us",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "LORENZO ROTA MARTIR",
+        "club": "La Sportiva",
+        "country": "it",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "ROBERTO GIACOMOTTI",
+        "club": "Sport Project Vco",
+        "country": "it",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "SYLVAIN CACHARD",
+        "club": "Hoka",
+        "country": "fr",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "XAVIER LEMAÎTRE",
+        "club": "Salomon",
+        "country": "ca",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 47,
+        "name": "TIBÈRE DEBIZET",
+        "club": "Asics",
+        "country": "fr",
+        "points": 124,
+        "raceCount": 2
+      },
+      {
+        "rank": 48,
+        "name": "MATT KNOWLES",
+        "club": "Salomon",
+        "country": "gb",
+        "points": 124,
+        "raceCount": 1
+      },
+      {
+        "rank": 49,
+        "name": "JUHO YLINEN",
+        "club": "Hoka",
+        "country": "fi",
+        "points": 121,
+        "raceCount": 2
+      },
+      {
+        "rank": 50,
+        "name": "KOKEN OGASAWARA",
+        "club": "Acg",
+        "country": "jp",
+        "points": 121,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "MARTIN NILSSON",
+        "club": "Vj",
+        "country": "se",
+        "points": 121,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "HIKARU KITAMURA",
+        "club": "",
+        "country": "jp",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "LORENZO BELTRAMI",
+        "club": "Scarpa",
+        "country": "it",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "NATHAN WANNER",
+        "club": "Ca Sion",
+        "country": "ch",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "IBAI LARREA",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "PAUL ORMAETXEA BILBAO",
+        "club": "Arrolape",
+        "country": "es",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "PIERRE GALBOURDIN",
+        "club": "Brooks",
+        "country": "fr",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "REMI LONCHAMPT",
+        "club": "Eag 38",
+        "country": "fr",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "GIOVANNI OLOCCO",
+        "club": "",
+        "country": "ca",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "KEVIN KIBET",
+        "club": "Kenya",
+        "country": "ke",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "LOIC ROBERT",
+        "club": "Esclops D´Azun",
+        "country": "fr",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "ANDREA PRANDI",
+        "club": "Dynafit",
+        "country": "it",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "ANTHONY FELBER",
+        "club": "Brooks",
+        "country": "fr",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "TIMOTHÉE COURTOIS",
+        "club": "Piranhas Ets",
+        "country": "ca",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "YOSHIKI HOSHINO",
+        "club": "",
+        "country": "jp",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "ANDREU BLANES REIG",
+        "club": "Salomon",
+        "country": "es",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "OIER ZUBELDIA ALBENIZ",
+        "club": "Euskal Selekzioa",
+        "country": "es",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "PAUL VANOOSTVEEN",
+        "club": "",
+        "country": "ca",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "MASATO KAMISHOHARA",
+        "club": "Salomon",
+        "country": "jp",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "MAXIMILIEN DRION",
+        "club": "Asics",
+        "country": "be",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 57,
+        "name": "DOMINIK NOTZ",
+        "club": "Lav Stadtwerke Tübingen",
+        "country": "de",
+        "points": 103,
+        "raceCount": 2
+      },
+      {
+        "rank": 58,
+        "name": "ANARTZ ARTOLA ARIN",
+        "club": "Agerre",
+        "country": "es",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "MATTIA GIANOLA",
+        "club": "Scott",
+        "country": "it",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "ROBBIE SIMPSON",
+        "club": "Adidas",
+        "country": "gb",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "SAMUEL AUDET",
+        "club": "",
+        "country": "ca",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "TSZHONG TAM",
+        "club": "",
+        "country": "jp",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "ADRIEN BRIFFOD",
+        "club": "Asics",
+        "country": "ch",
+        "points": 99,
+        "raceCount": 2
+      },
+      {
+        "rank": 60,
+        "name": "JONATHAN SCHMID",
+        "club": "Team Puralpina",
+        "country": "ch",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "KODAI KIMURA",
+        "club": "岐阜日野自動車スキークラブ",
+        "country": "jp",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "LOUIS MOREAU",
+        "club": "Team Creuse L´Écart",
+        "country": "ca",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "PABLO VAN HOORN",
+        "club": "Salomon",
+        "country": "nl",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 61,
+        "name": "JACOB FREDERIKSEN STEINTHAL",
+        "club": "Blovstrød Løverne",
+        "country": "dk",
+        "points": 96,
+        "raceCount": 1
+      },
+      {
+        "rank": 62,
+        "name": "AHMED AYYOUB",
+        "club": "High Atlas Ultra Trail",
+        "country": "ma",
+        "points": 95,
+        "raceCount": 1
+      },
+      {
+        "rank": 63,
+        "name": "ALRIC PETIT",
+        "club": "",
+        "country": "fr",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 63,
+        "name": "GONTZAL MURGOITIO ESPARZA",
+        "club": "Brooks",
+        "country": "es",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 63,
+        "name": "MIKEL GARCIA-URTIAGA",
+        "club": "",
+        "country": "ca",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 63,
+        "name": "YUYA ASAKA",
+        "club": "高田自衛隊",
+        "country": "jp",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 64,
+        "name": "ANDER AMONARRIZ ZUBIONDO",
+        "club": "Zanpatuz Mendi Elkartea",
+        "country": "es",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 64,
+        "name": "DEVID CARESANI",
+        "club": "S.A. Valchiese",
+        "country": "it",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 64,
+        "name": "HUGO DANSEREAU",
+        "club": "",
+        "country": "ca",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 64,
+        "name": "ROQUE LLORET",
+        "club": "",
+        "country": "es",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 64,
+        "name": "TINE ŽIŽMOND",
+        "club": "",
+        "country": "si",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 65,
+        "name": "ALESSANDRO RIVA",
+        "club": "Scott",
+        "country": "it",
+        "points": 88,
+        "raceCount": 1
+      }
+    ],
+    "women": [
+      {
+        "rank": 1,
+        "name": "MADALINA FLOREA",
+        "club": "Scott",
+        "country": "ro",
+        "points": 872,
+        "raceCount": 4
+      },
+      {
+        "rank": 2,
+        "name": "RUTH MWIHAKI GITONGA",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 698,
+        "raceCount": 4
+      },
+      {
+        "rank": 3,
+        "name": "BARBORA BUKOVJAN",
+        "club": "Salomon",
+        "country": "cz",
+        "points": 696,
+        "raceCount": 4
+      },
+      {
+        "rank": 4,
+        "name": "MARIE NIVET",
+        "club": "Nike Acg",
+        "country": "fr",
+        "points": 663,
+        "raceCount": 4
+      },
+      {
+        "rank": 5,
+        "name": "CAROLINE KIMUTAI",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 614,
+        "raceCount": 3
+      },
+      {
+        "rank": 6,
+        "name": "THERES LEBOEUF",
+        "club": "Compressport / Lowa",
+        "country": "ch",
+        "points": 529,
+        "raceCount": 4
+      },
+      {
+        "rank": 7,
+        "name": "HANNA GRÖBER",
+        "club": "Irczrh",
+        "country": "de",
+        "points": 502,
+        "raceCount": 3
+      },
+      {
+        "rank": 8,
+        "name": "RENÉE CARDINAALS",
+        "club": "All4running / Esprit Montagne",
+        "country": "nl",
+        "points": 478,
+        "raceCount": 4
+      },
+      {
+        "rank": 9,
+        "name": "CATERINA STENTA",
+        "club": "Joma",
+        "country": "it",
+        "points": 463,
+        "raceCount": 4
+      },
+      {
+        "rank": 10,
+        "name": "MARIA FUENTES OLCINA",
+        "club": "Kailas Fuga",
+        "country": "es",
+        "points": 454,
+        "raceCount": 3
+      },
+      {
+        "rank": 11,
+        "name": "ELISA PRESA",
+        "club": "Salomon",
+        "country": "it",
+        "points": 442,
+        "raceCount": 4
+      },
+      {
+        "rank": 12,
+        "name": "SILVIA SCHWAIGER",
+        "club": "Salomon",
+        "country": "sk",
+        "points": 412,
+        "raceCount": 3
+      },
+      {
+        "rank": 13,
+        "name": "ESTEL ROIG FORTIN",
+        "club": "Scott",
+        "country": "es",
+        "points": 393,
+        "raceCount": 3
+      },
+      {
+        "rank": 14,
+        "name": "MADALINA AMARIEI",
+        "club": "Kailas Fuga",
+        "country": "ro",
+        "points": 386,
+        "raceCount": 3
+      },
+      {
+        "rank": 15,
+        "name": "SARA ALONSO",
+        "club": "Asics",
+        "country": "es",
+        "points": 320,
+        "raceCount": 2
+      },
+      {
+        "rank": 16,
+        "name": "SYDNEY PETERSEN",
+        "club": "Brooks",
+        "country": "us",
+        "points": 318,
+        "raceCount": 4
+      },
+      {
+        "rank": 17,
+        "name": "MIRIAM CHEPKIRUI",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 300,
+        "raceCount": 2
+      },
+      {
+        "rank": 18,
+        "name": "NAIARA IRIGOYEN",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 267,
+        "raceCount": 3
+      },
+      {
+        "rank": 19,
+        "name": "GABRIELA LASALLE",
+        "club": "Nike Acg",
+        "country": "es",
+        "points": 232,
+        "raceCount": 2
+      },
+      {
+        "rank": 20,
+        "name": "TOVE ALEXANDERSSON",
+        "club": "Salomon",
+        "country": "se",
+        "points": 230,
+        "raceCount": 1
+      },
+      {
+        "rank": 21,
+        "name": "VALENTINE RUTTO",
+        "club": "Atletica Saluzzo",
+        "country": "ke",
+        "points": 220,
+        "raceCount": 2
+      },
+      {
+        "rank": 22,
+        "name": "MALEN OSA ANSA",
+        "club": "Salomon",
+        "country": "es",
+        "points": 206,
+        "raceCount": 1
+      },
+      {
+        "rank": 23,
+        "name": "PEMA FRANCHI",
+        "club": "Norda",
+        "country": "ec",
+        "points": 206,
+        "raceCount": 2
+      },
+      {
+        "rank": 24,
+        "name": "SARAH CARTER",
+        "club": "Topo Athletic",
+        "country": "us",
+        "points": 200,
+        "raceCount": 2
+      },
+      {
+        "rank": 25,
+        "name": "JOYCE MUTHONI NJERU",
+        "club": "Nnormal",
+        "country": "ke",
+        "points": 194,
+        "raceCount": 1
+      },
+      {
+        "rank": 26,
+        "name": "NAOMI LANG",
+        "club": "Salomon",
+        "country": "gb",
+        "points": 192,
+        "raceCount": 1
+      },
+      {
+        "rank": 27,
+        "name": "MORVEN GOODRUM",
+        "club": "Windsor Slough Eton And Hounslow",
+        "country": "gb",
+        "points": 186,
+        "raceCount": 1
+      },
+      {
+        "rank": 28,
+        "name": "SELINA BURCH",
+        "club": "Lowa Trail Racers/ La Nidwalden",
+        "country": "ch",
+        "points": 185,
+        "raceCount": 2
+      },
+      {
+        "rank": 29,
+        "name": "IDA AMELIE ROBSAHM",
+        "club": "Asics",
+        "country": "no",
+        "points": 172,
+        "raceCount": 1
+      },
+      {
+        "rank": 29,
+        "name": "NINA ENGELHARD",
+        "club": "Psv Grün Weiß Kassel",
+        "country": "de",
+        "points": 172,
+        "raceCount": 1
+      },
+      {
+        "rank": 29,
+        "name": "ORIA LIACI",
+        "club": "Brooks",
+        "country": "ch",
+        "points": 172,
+        "raceCount": 1
+      },
+      {
+        "rank": 30,
+        "name": "ANDREA KOLBEINSDÓTTIR",
+        "club": "Salomon",
+        "country": "is",
+        "points": 168,
+        "raceCount": 1
+      },
+      {
+        "rank": 31,
+        "name": "ALEXA ARAGON",
+        "club": "Mammut/Lasportiva",
+        "country": "us",
+        "points": 168,
+        "raceCount": 2
+      },
+      {
+        "rank": 32,
+        "name": "NIENKE BRINKMAN",
+        "club": "Nike Acg",
+        "country": "nl",
+        "points": 166,
+        "raceCount": 1
+      },
+      {
+        "rank": 33,
+        "name": "LINDSAY WEBSTER",
+        "club": "",
+        "country": "ca",
+        "points": 160,
+        "raceCount": 1
+      },
+      {
+        "rank": 34,
+        "name": "CELESTE ZANELLA",
+        "club": "Ssd Tremalzo - Salomon Italia",
+        "country": "it",
+        "points": 158,
+        "raceCount": 3
+      },
+      {
+        "rank": 35,
+        "name": "ANNA GIBSON",
+        "club": "Brooks",
+        "country": "us",
+        "points": 154,
+        "raceCount": 1
+      },
+      {
+        "rank": 36,
+        "name": "AXELLE GENOUD",
+        "club": "Salomon",
+        "country": "ch",
+        "points": 152,
+        "raceCount": 1
+      },
+      {
+        "rank": 37,
+        "name": "JUDITH WYDER",
+        "club": "Hoka",
+        "country": "ch",
+        "points": 150,
+        "raceCount": 1
+      },
+      {
+        "rank": 38,
+        "name": "LUCILLE GERMAIN",
+        "club": "Nnormal",
+        "country": "fr",
+        "points": 150,
+        "raceCount": 1
+      },
+      {
+        "rank": 39,
+        "name": "FABIOLA CONTI",
+        "club": "",
+        "country": "it",
+        "points": 144,
+        "raceCount": 1
+      },
+      {
+        "rank": 40,
+        "name": "BINBIN XIONG",
+        "club": "Kailas Fuga",
+        "country": "cn",
+        "points": 143,
+        "raceCount": 2
+      },
+      {
+        "rank": 41,
+        "name": "AYAKA UEDA",
+        "club": "",
+        "country": "jp",
+        "points": 140,
+        "raceCount": 1
+      },
+      {
+        "rank": 42,
+        "name": "MEGGY BOURASSA",
+        "club": "",
+        "country": "ca",
+        "points": 140,
+        "raceCount": 1
+      },
+      {
+        "rank": 43,
+        "name": "LAURA HOTTENROTT",
+        "club": "Asics",
+        "country": "de",
+        "points": 137,
+        "raceCount": 1
+      },
+      {
+        "rank": 44,
+        "name": "JULIE LELONG",
+        "club": "Asics",
+        "country": "fr",
+        "points": 136,
+        "raceCount": 1
+      },
+      {
+        "rank": 45,
+        "name": "MAUDE MATHYS",
+        "club": "Asics",
+        "country": "ch",
+        "points": 135,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "CÉLINE AEBI",
+        "club": "Team Mizuno",
+        "country": "ch",
+        "points": 133,
+        "raceCount": 1
+      },
+      {
+        "rank": 47,
+        "name": "LAURIANNE LEPINE",
+        "club": "",
+        "country": "ca",
+        "points": 130,
+        "raceCount": 1
+      },
+      {
+        "rank": 47,
+        "name": "TAKAKO TAKAMURA",
+        "club": "Nike Acg",
+        "country": "jp",
+        "points": 130,
+        "raceCount": 1
+      },
+      {
+        "rank": 48,
+        "name": "COURTNEY COPPINGER",
+        "club": "Brooks",
+        "country": "us",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 48,
+        "name": "LIDE URRESTARAZU AGIRRE",
+        "club": "Euskal Selekzioa",
+        "country": "es",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 48,
+        "name": "SAWA MACHIDA",
+        "club": "..",
+        "country": "jp",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 49,
+        "name": "KIRSTY DICKSON",
+        "club": "Carnethy Hill Racing Club",
+        "country": "gb",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "GABRIELLE MORIN-HARVEY",
+        "club": "",
+        "country": "ca",
+        "points": 124,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "GRETA GARCÍA MORÁN",
+        "club": "Asics",
+        "country": "es",
+        "points": 124,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "NATSUMI USUI",
+        "club": "..",
+        "country": "jp",
+        "points": 124,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "VIVIEN BONZI",
+        "club": "Brooks",
+        "country": "it",
+        "points": 124,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "ANDREE-ANNE CLOUTIER",
+        "club": "Club De Course Des Chics-Chocs",
+        "country": "ca",
+        "points": 121,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "OIHANA ZUBILLAGA BLANCO",
+        "club": "Domusa",
+        "country": "es",
+        "points": 121,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "SACHI NAKANO",
+        "club": "Rossignol",
+        "country": "jp",
+        "points": 121,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "AGNES JOSEFSSON",
+        "club": "Salomon",
+        "country": "se",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "ALEXANDRA MCDOUGALL",
+        "club": "",
+        "country": "ca",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "CHLOE VILLEDEY",
+        "club": "..",
+        "country": "jp",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "MIAO YAO",
+        "club": "",
+        "country": "cn",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "KLARA VELEPEC",
+        "club": "Lasportiva",
+        "country": "si",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "LAIA MONTOYA GARCÍA",
+        "club": "New Balance",
+        "country": "es",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "MARJOLAINE LETALIEN",
+        "club": "",
+        "country": "ca",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "TABOR SCHOLL",
+        "club": "Adidas",
+        "country": "us",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "TOMOKO IZUTSU",
+        "club": "たにクリ",
+        "country": "jp",
+        "points": 115,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "CECILE JAROUSSEAU",
+        "club": "Kiprun",
+        "country": "fr",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "MARTINA VALMASSOI",
+        "club": "Salomon",
+        "country": "it",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "MIYUKI KON",
+        "club": "新潟薬科大AC",
+        "country": "jp",
+        "points": 112,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "AKIKO IKEUCHI",
+        "club": "Ｍ＠平塚",
+        "country": "jp",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "MARIE-CLAUDE BOUCHER",
+        "club": "",
+        "country": "ca",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "SOFIIA POROKHNAVETS",
+        "club": "Run Card",
+        "country": "ua",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "CARRODILLA CABESTRE",
+        "club": "Zenit Atleet La Mafia",
+        "country": "es",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "ELISA MORIN",
+        "club": "Brooks",
+        "country": "ca",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "IKUKO SHIGA",
+        "club": "Power Sports",
+        "country": "jp",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "MADLEN KAPPELER",
+        "club": "Sportsshoes Pro Alpine Trail Team",
+        "country": "de",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "MARIANNE BOIVIN",
+        "club": "Les Rapides De Pont-Rouge",
+        "country": "ca",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "MARTINA CUMERLATO",
+        "club": "Team Altra",
+        "country": "it",
+        "points": 106,
+        "raceCount": 1
+      },
+      {
+        "rank": 57,
+        "name": "AINARA ALCUAZ RODRIGUEZ",
+        "club": "Euskal Selekzioa",
+        "country": "es",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 57,
+        "name": "CÉLINE PEREY",
+        "club": "",
+        "country": "ca",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 57,
+        "name": "KAZUHA MATSUI",
+        "club": "M.平塚",
+        "country": "jp",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "ALICE MINETTI",
+        "club": "Kailas Fuga",
+        "country": "it",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "ARIANNE GOYETTE GRENIER",
+        "club": "",
+        "country": "ca",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "DOMINIKA ZUPANCIC VALANT",
+        "club": "Salomon",
+        "country": "si",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "MINORI INOUE",
+        "club": "たにクリ",
+        "country": "jp",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "AINHOA GARIKANO BELAUNZARAN",
+        "club": "Soronea Ammma Cmo Valves K.K",
+        "country": "es",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "ANOUK HELIOT",
+        "club": "Free Run 37",
+        "country": "fr",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "AUSRINE KUTKAITE",
+        "club": "",
+        "country": "lt",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "JULIE GRONDIN",
+        "club": "",
+        "country": "ca",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "RYOKO YAMAGUCHI",
+        "club": "..",
+        "country": "jp",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "SIRI NYFELER",
+        "club": "Stb Leichtathletik",
+        "country": "ch",
+        "points": 97,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "AINHOA SANZ RODRÍGUEZ",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "HANNAH RUSSELL",
+        "club": "Helm Hill",
+        "country": "gb",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "NAGISA YAMAZAKI",
+        "club": "高田自衛隊",
+        "country": "jp",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "TAYLER TUTTLE",
+        "club": "",
+        "country": "us",
+        "points": 94,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "TINA MCINNES",
+        "club": "",
+        "country": "ca",
+        "points": 94,
+        "raceCount": 1
+      }
+    ]
+  },
+  "source": {
+    "calendar": "https://goldentrailseries.com/calendar/",
+    "ranking": "https://goldentrailseries.com/serie/world-series/world-series-overall-ranking/"
+  }
+}
