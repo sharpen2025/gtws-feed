@@ -1,0 +1,13 @@
+{
+  "name": "gtws-feed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Golden Trail Series 캘린더/랭킹을 매일 JSON으로 수집",
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}

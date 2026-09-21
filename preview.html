@@ -1,0 +1,481 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GTWS 위젯 미리보기</title>
+<style>
+  body{margin:0; background:#f4f5f7; padding:28px 16px; font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif;}
+  .wrap{max-width:1280px; margin:0 auto;}   /* 아임웹 컨텐츠 가로폭과 동일 */
+  .note{color:#5b636c; font-size:13px; margin:0 0 14px; text-align:center;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="note">아래는 아임웹에 붙여넣을 위젯의 미리보기입니다. (샘플 데이터 · 2026-09-18 기준)</p>
+  <script>// 미리보기 전용 샘플 데이터 (2026-09-18 기준 실제 수집값)
+// 실제 사이트에서는 data/gtws.json 을 fetch 하므로 이 파일은 쓰이지 않습니다.
+(function () {
+  var U = 'https://goldentrailseries.com/wp-content/uploads/';
+  function r(date, country, series, name, tagline, distance, elevation, capacity, slug, img) {
+    return {
+      date: date,
+      dateISO: date.slice(6) + '-' + date.slice(3, 5) + '-' + date.slice(0, 2),
+      country: country,
+      series: series,
+      name: name,
+      tagline: tagline,
+      distance: distance,
+      elevation: elevation,
+      capacity: capacity,
+      url: 'https://goldentrailseries.com/race/' + slug + '/',
+      image: U + img
+    };
+  }
+  var races = [
+    r('08/03/2026','au','National Series','WARBURTON TRAIL FESTIVAL','Donna Double','22 km','1,333 m','','warburton-trail-festival','2026/05/NEW-SAVE-Salomon-Warburton-Trail-Fest-2546-1.jpg'),
+    r('15/03/2026','cn','National Series','TRAIL DONGHAI','The Coastal Course','30 km','1,412 m','2,000','trail-donghai','2026/05/WEB-1.jpg'),
+    r('22/03/2026','fr','National Series','SALOMON ECOTRAIL PARIS','The Urban Wild','35 km','830 m','2,000','salomon-ecotrail-paris','2026/05/Salomon-Ecotrail-Paris-6.jpg'),
+    r('19/04/2026','cn','National Series','NINE PEAKS GRANDMASTER CHALLENGE BY TSAIGU','China’s Sierre-Zinal','2,079 km','30 m','1,800','nine-peaks-grandmaster-challenge-by-tsaigu','2026/05/NINE-PEAKS-GRANDMASTER-CHALLENGE-BY-TSAIGU-2.jpg'),
+    r('26/04/2026','cn','National Series','YANG JIANG YANGCHUN JILONGDING AZALEA TRAIL RUNNING RACE','Blooming mountain adventure','30 km','1,529 m','1,500','yang-jiang-yangchun-jilongding-azalea-trail-running-race','2026/05/YANG-JIANG-YANGCHUN-JILONGDING-AZALEA-TRAIL-RUNNING-RACE-2.jpg'),
+    r('17/05/2026','es','World Series','ZEGAMA – AIZKORRI','The Basque Fever','42 km','2,745 m','500','zegama-aizkorri','2026/05/@Rising.Story-@JustinGalant_Zegama_25-05-25-169.jpg'),
+    r('17/05/2026','cn','National Series','CFTT SHENNONGJIA ULTRA RACE (S-ULTRA)','The four seasons race','28 km','2,186 m','1,300','cftt-shennongjia-ultra-race','2026/05/CFTT-SHENNONGJIA-ULTRA-RACE-S-ULTRA-1.jpg'),
+    r('24/05/2026','it','World Series','LEDRO SKY TRENTINO','Wild peaks, trenchline trails','28,8 km','1,775 m','500','ledro-sky-trentino','2026/05/@rising.story_@antho.dx_Ledro_Sky_12-10-2025-09371-2.jpg'),
+    r('30/05/2026','cn','National Series','FOUR SISTERS MOUNTAIN MECONOPSIS TRAIL','GTNS China Grand Finale','22 km','1,407 m','500','four-sisters-mountain-meconopsis-trail','2026/05/four-sisters-mountain-race-1.jpg'),
+    r('05/07/2026','ca','World Series','QUÉBEC MEGA TRAIL','The Beast of the East','28,6 km','1.397 m','500','quebec-mega-trail','2026/05/QMT-2023-Credit-QMT-scaled.jpg'),
+    r('12/07/2026','it','National Series','DOLOMYTHS RUN','From the heart of Canazei to the sky of Piz Boè','21,7 km','1,764 m','800','dolomyths-run','2026/05/WEB-DJI_20250421083600_0070_D.jpg'),
+    r('17/07/2026','pl','National Series','GOLDEN MOUNTAINS TRAIL','The trail festival','33 km','1,500 m','750','golden-mountains-trail','2026/05/WEB-NA-TRASIE-1.jpg'),
+    r('01/08/2026','at','World Series','SALOMON PITZ ALPINE GLACIER TRAIL','Where glaciers meet the sky','24,5 km','1,618 m','','salomon-pitz-alpine-glacier-trail','2026/05/@rising.story_@justingalant_PitzAlpineGlacier_02-08-25-196.jpg'),
+    r('08/08/2026','ch','World Series','SIERRE-ZINAL','Fast and furious','31 km','2,133 m','6,300','sierre-zinal','2026/05/@rising.story_@justingalant_SierreZinal_09-08-25-62.jpg'),
+    r('08/08/2026','mx','National Series','TEPEC TRAIL ZAPOTITLAN SALINAS','Magic Mountains','36 km','1,800 m','450','tepec-trail-zapotitlan-salinas','2026/05/MF_012826_Zapotitlan_0196.jpg'),
+    r('22/08/2026','cz','National Series','SALOMON JESENICKY MARATON','A dreamy landscape','21 km','730 m','','salomon-jesenicky-maraton','2026/05/WEB-JM_3.jpg'),
+    r('20/09/2026','jp','World Series','MYOKO TRAIL','Double up, double down','24,7 km','2,020 m','400','myoko-trail','2026/05/2022_myoko_072.jpg'),
+    r('27/09/2026','cn','World Series','JINSHANLING GREAT WALL TRAIL RACE','The Wonderwall','23,1 km','1,667 m','3,000','jinshanling-great-wall-trail-race','2026/05/web-@rising.story-@mathisdecroux_GreatWallChina_04-26-00172.jpg'),
+    r('04/10/2026','es','National Series','SALOMON MITJA PIRINEU','The best views of Pedraforca','21 km','1,400 m','1,000','salomon-mitja-pirineu','2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94.jpg'),
+    r('24/10/2026','kr','World Series','MUJU TRAIL GRAND FINALE','Stitched by strides','25,6 km','2,294 m','5,000','muju-trail','2026/05/WEB-Deogyusan-Landscape-1.jpg')
+  ];
+
+  function p(rank, name, club, country, points, raceCount) {
+    return { rank: rank, name: name, club: club, country: country, points: points, raceCount: raceCount };
+  }
+  var men = [
+    p(1,'ELHOUSINE ELAZZAOUI','Nnormal','ma',824,4), p(2,'PHILEMON OMBOGO KIRIAGO','Run2gether On Trail','ke',648,3),
+    p(3,'MICHAEL SELELO SAOLI','Run2gether On Trail','ke',568,3), p(4,'PATRICK KIPNGENO','Run2gether On Trail','ke',556,3),
+    p(5,'ALAIN SANTAMARÍA','X-Bionic Integrity','es',515,4), p(6,'BOGDAN DAMIAN','Kailas Fuga','ro',509,4),
+    p(7,'NASHON KIPLIMO','Salomon','ke',481,3), p(8,'EZEKIEL RUTTO','Salomon','ke',454,3),
+    p(9,'TAYLOR STACK','Brooks','us',452,4), p(10,'SAMWEL KIPROTICH','Salomon','ke',372,3),
+    p(11,'ISACCO COSTA','La Sportiva','it',327,3), p(12,'DANIEL PATTIS','Brooks','it',324,2),
+    p(13,'TIMOTHY KIBETT','Salomon','ke',322,2), p(14,'PAUL MACHOKA','Atletica Saluzzo','ke',296,2),
+    p(15,'ADAM SJOLUND','Ponderosa Pirates','us',295,3), p(16,'CHRISTIAN ALLEN','Nike ACG','us',294,2),
+    p(17,'JAN TORRELLA OLLER','Salomon','es',275,2), p(18,'BRAYAN RODRÍGUEZ FLORES','','mx',266,2),
+    p(19,'REMI LEROUX','Brooks','ca',246,3), p(20,'JONAS SOLDINI','Salomon','ch',242,2),
+    p(21,'MATTIA TANARA','Scott','it',241,3), p(22,'ANDERS KJÆREVIK','','no',210,3),
+    p(23,'MAEL HENRIC','Salomon','fr',206,2), p(24,'RYUNOSUKE OMI','Salomon','jp',206,2),
+    p(25,'NICOLAS MOLINA','Scott','es',203,2), p(26,'DAVID NORRIS','On Trail','us',173,2),
+    p(27,'NOAM FRANCHI','Norda','fr',173,2), p(28,'JACOB ADKIN','New Balance','gb',172,1),
+    p(28,'MANUEL MERILLAS','New Balance','es',172,1), p(29,'EPHANTUS NJERI','Run2gether On Trail','ke',170,2),
+    p(30,'ROSS GOLLAN','Nike ACG','gb',167,3), p(31,'REMI BONNET','Salomon','ch',164,1),
+    p(32,'MASSIMILIANO BERTI','ASD Sicilia Running Team','it',157,2), p(33,'ROBERT PKEMOI MATAYANGO','Otso','ke',156,1),
+    p(34,'ROBERTO DELORENZI','Brooks','ch',152,2)
+  ];
+  var women = [
+    p(1,'MADALINA FLOREA','Scott','ro',872,4), p(2,'CAROLINE KIMUTAI','Salomon','ke',614,3),
+    p(3,'RUTH MWIHAKI GITONGA','Run2gether On Trail','ke',522,3), p(4,'BARBORA BUKOVJAN','Salomon','cz',502,3),
+    p(5,'CATERINA STENTA','Joma','it',463,4), p(6,'MARIE NIVET','Nike ACG','fr',453,3),
+    p(7,'ELISA PRESA','Salomon','it',442,4), p(8,'MADALINA AMARIEI','Kailas Fuga','ro',386,3),
+    p(9,'THERES LEBOEUF','Compressport / Lowa','ch',363,3), p(10,'RENÉE CARDINAALS','Esprit Montagne','nl',342,3),
+    p(11,'SARA ALONSO','Asics','es',320,2), p(12,'SYDNEY PETERSEN','Brooks','us',318,4),
+    p(13,'MARIA FUENTES OLCINA','Kailas Fuga','es',306,2), p(14,'MIRIAM CHEPKIRUI','Run2gether On Trail','ke',300,2),
+    p(15,'HANNA GRÖBER','IRCZRH','de',278,2), p(16,'NAIARA IRIGOYEN','X-Bionic Integrity','es',267,3),
+    p(17,'SILVIA SCHWAIGER','Salomon','sk',260,2), p(18,'ESTEL ROIG FORTIN','Scott','es',260,2),
+    p(19,'GABRIELA LASALLE','Nike ACG','es',232,2), p(20,'TOVE ALEXANDERSSON','Salomon','se',230,1),
+    p(21,'VALENTINE RUTTO','Atletica Saluzzo','ke',220,2), p(22,'MALEN OSA ANSA','Salomon','es',206,1),
+    p(23,'PEMA FRANCHI','Norda','ec',206,2), p(24,'SARAH CARTER','Topo Athletic','us',200,2),
+    p(25,'JOYCE MUTHONI NJERU','Nnormal','ke',194,1), p(26,'NAOMI LANG','Salomon','gb',192,1),
+    p(27,'MORVEN GOODRUM','Windsor Slough Eton & Hounslow','gb',186,1), p(28,'SELINA BURCH','Lowa Trail Racers','ch',185,2),
+    p(29,'IDA AMELIE ROBSAHM','Asics','no',172,1), p(29,'NINA ENGELHARD','PSV Grün Weiß Kassel','de',172,1),
+    p(29,'ORIA LIACI','Brooks','ch',172,1), p(30,'ANDREA KOLBEINSDÓTTIR','Salomon','is',168,1),
+    p(31,'ALEXA ARAGON','Mammut / La Sportiva','us',168,2), p(32,'NIENKE BRINKMAN','Nike ACG','nl',166,1),
+    p(33,'LINDSAY WEBSTER','','ca',160,1)
+  ];
+
+  window.GTWS_PREVIEW_DATA = {
+    updatedAt: '2026-09-18T08:00:00+09:00',
+    updatedDate: '2026-09-18',
+    edition: 2026,
+    counts: { nextUp: 3, races: races.length, men: men.length, women: women.length },
+    nextUp: races.filter(function (x) { return ['myoko-trail', 'jinshanling-great-wall-trail-race', 'salomon-mitja-pirineu'].some(function (s) { return x.url.indexOf(s) > -1; }); }),
+    races: races,
+    ranking: { men: men, women: women }
+  };
+})();
+</script>
+<!-- ═══════════════════════════════════════════════════════════════
+     GOLDEN TRAIL SERIES 위젯  (trailrunners.kr/gtws 삽입용)
+     ▸ 아래 data-src 의 주소만 본인 저장소 주소로 바꾸면 됩니다.
+     ▸ 전체를 통째로 복사해서 아임웹 "코드 삽입" 위젯에 붙여넣으세요.
+     ═══════════════════════════════════════════════════════════════ -->
+
+<div id="gtws-widget"
+     data-src="https://raw.githubusercontent.com/USERNAME/gtws-feed/main/data/gtws.json">
+  <div class="gt-boot">불러오는 중…</div>
+</div>
+
+<style>
+#gtws-widget{
+  --gt-bg:#0b0d10; --gt-card:#14181d; --gt-card2:#1b2026; --gt-line:#262c34;
+  --gt-text:#f4f6f8; --gt-muted:#9aa5b1; --gt-dim:#6f7a86;
+  --gt-gold:#f9ae00; --gt-blue:#6aa9ff;
+  background:var(--gt-bg) !important; color:var(--gt-text) !important;
+  display:block; width:100%; max-width:100%; margin:0 auto; overflow:hidden;
+  padding:20px 16px 28px; border-radius:18px;
+  font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Noto Sans KR",
+              "Malgun Gothic",Roboto,sans-serif;
+  font-size:15px; line-height:1.5; -webkit-font-smoothing:antialiased;
+  box-sizing:border-box;
+}
+#gtws-widget *{box-sizing:border-box; margin:0; padding:0;}
+#gtws-widget a{color:var(--gt-text) !important; text-decoration:none !important;}
+#gtws-widget img{display:block; max-width:100%;}
+#gtws-widget button{font:inherit; cursor:pointer; border:0; background:none;}
+#gtws-widget .gt-boot{color:var(--gt-muted) !important; padding:40px 0; text-align:center;}
+
+/* ── 헤더 ── */
+#gtws-widget .gt-head{display:flex; flex-wrap:wrap; align-items:baseline; gap:10px 14px; margin-bottom:16px;}
+#gtws-widget .gt-title{color:var(--gt-text) !important; font-size:20px; font-weight:800; letter-spacing:-.01em;}
+#gtws-widget .gt-title b{color:var(--gt-gold) !important; font-weight:800;}
+#gtws-widget .gt-stamp{
+  color:var(--gt-muted) !important; background:var(--gt-card2); border:1px solid var(--gt-line);
+  font-size:12px; padding:4px 10px; border-radius:999px; margin-left:auto; white-space:nowrap;
+}
+
+/* ── 탭 ── */
+#gtws-widget .gt-tabs{display:flex; gap:6px; background:var(--gt-card); border:1px solid var(--gt-line);
+  border-radius:12px; padding:5px; margin-bottom:18px;}
+#gtws-widget .gt-tab{
+  flex:1; color:var(--gt-muted) !important; background:transparent; border-radius:9px;
+  padding:9px 12px; font-size:14px; font-weight:700; text-align:center; transition:.15s;
+}
+#gtws-widget .gt-tab:hover{color:var(--gt-text) !important;}
+#gtws-widget .gt-tab[aria-selected="true"]{color:#101317 !important; background:var(--gt-gold);}
+
+/* ── 섹션 제목 ── */
+#gtws-widget .gt-h{display:flex; align-items:center; gap:9px; margin:22px 0 12px;}
+#gtws-widget .gt-h:first-child{margin-top:4px;}
+#gtws-widget .gt-h span{color:var(--gt-text) !important; font-size:15px; font-weight:800; letter-spacing:.04em;}
+#gtws-widget .gt-h i{display:block; width:7px; height:7px; border-radius:50%; background:var(--gt-gold);}
+#gtws-widget .gt-h em{color:var(--gt-dim) !important; font-style:normal; font-size:12px; font-weight:600;}
+
+/* ── Next up 카드 ── */
+#gtws-widget .gt-next{display:grid; grid-template-columns:repeat(3,1fr); gap:12px;}
+#gtws-widget .gt-card{
+  position:relative; display:block; border-radius:14px; overflow:hidden;
+  background:var(--gt-card2); border:1px solid var(--gt-line); min-height:230px;
+}
+#gtws-widget .gt-card .gt-ph{position:absolute; inset:0; background:linear-gradient(145deg,#1d2530,#0f1319);}
+#gtws-widget .gt-card img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover;}
+#gtws-widget .gt-card .gt-scrim{position:absolute; inset:0;
+  background:linear-gradient(180deg,rgba(8,10,13,.15) 0%,rgba(8,10,13,.55) 45%,rgba(8,10,13,.94) 100%);}
+#gtws-widget .gt-card .gt-body{position:relative; height:100%; min-height:230px;
+  display:flex; flex-direction:column; justify-content:flex-end; gap:6px; padding:14px;}
+#gtws-widget .gt-card .gt-top{position:absolute; top:12px; left:12px; right:12px;
+  display:flex; align-items:center; justify-content:space-between; gap:8px;}
+#gtws-widget .gt-cname{display:block; color:#ffffff !important; font-size:16px; font-weight:800; line-height:1.25;}
+#gtws-widget .gt-ctag{display:block; color:#d8dee5 !important; font-size:12.5px;}
+#gtws-widget .gt-cstats{display:flex; flex-wrap:wrap; gap:6px; margin-top:4px;}
+
+/* ── 배지 / 칩 ── */
+#gtws-widget .gt-pill{
+  display:inline-flex; align-items:center; gap:5px; font-size:11.5px; font-weight:700;
+  padding:4px 8px; border-radius:999px; white-space:nowrap;
+  background:rgba(10,13,16,.78); color:#e9edf1 !important; border:1px solid rgba(255,255,255,.14);
+}
+#gtws-widget .gt-pill.gt-ws{background:var(--gt-gold); color:#101317 !important; border-color:transparent;}
+#gtws-widget .gt-pill.gt-ns{background:var(--gt-blue); color:#0a1220 !important; border-color:transparent;}
+#gtws-widget .gt-flag{width:20px; height:14px; object-fit:cover; border-radius:2px; flex:0 0 auto;
+  background:#2a323b;}
+
+/* ── 필터 ── */
+#gtws-widget .gt-filter{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;}
+#gtws-widget .gt-chip{
+  color:var(--gt-muted) !important; background:var(--gt-card); border:1px solid var(--gt-line);
+  font-size:12.5px; font-weight:600; padding:6px 12px; border-radius:999px;
+}
+#gtws-widget .gt-chip[aria-pressed="true"]{color:#101317 !important; background:var(--gt-gold); border-color:transparent;}
+#gtws-widget .gt-chip-alt{margin-left:auto;}
+#gtws-widget .gt-chip-alt[aria-pressed="true"]{color:#f4f6f8 !important; background:#2f3947; border-color:#46525f;}
+
+/* ── 대회 리스트 ── */
+#gtws-widget .gt-list{display:flex; flex-direction:column; gap:7px;}
+#gtws-widget .gt-row{
+  display:grid; grid-template-columns:78px 24px 1fr auto; align-items:center; gap:12px;
+  background:var(--gt-card); border:1px solid var(--gt-line); border-radius:12px;
+  padding:11px 14px; transition:.15s;
+}
+#gtws-widget .gt-row:hover{background:var(--gt-card2); border-color:#39424d;}
+#gtws-widget .gt-row.gt-done{opacity:.52;}
+#gtws-widget .gt-date{color:var(--gt-gold) !important; font-size:13px; font-weight:800; font-variant-numeric:tabular-nums;}
+#gtws-widget .gt-row.gt-done .gt-date{color:var(--gt-dim) !important;}
+#gtws-widget .gt-rname{display:block; color:var(--gt-text) !important; font-size:14.5px; font-weight:700; line-height:1.3;}
+#gtws-widget .gt-rmeta{display:block; color:var(--gt-muted) !important; font-size:12px; margin-top:2px;}
+#gtws-widget .gt-rright{display:flex; align-items:center; gap:7px;}
+
+/* ── 랭킹 ── */
+#gtws-widget .gt-seg{display:inline-flex; gap:4px; background:var(--gt-card);
+  border:1px solid var(--gt-line); border-radius:11px; padding:4px; margin-bottom:12px;}
+#gtws-widget .gt-seg button{color:var(--gt-muted) !important; font-size:13.5px; font-weight:700;
+  padding:7px 20px; border-radius:8px;}
+#gtws-widget .gt-seg button[aria-selected="true"]{color:#101317 !important; background:var(--gt-gold);}
+#gtws-widget .gt-tbl{width:100%; border-collapse:separate; border-spacing:0 6px;}
+#gtws-widget .gt-tbl th{
+  color:var(--gt-dim) !important; background:transparent; font-size:11.5px; font-weight:700;
+  text-align:left; letter-spacing:.05em; padding:0 12px 2px;
+}
+#gtws-widget .gt-tbl th.gt-r, #gtws-widget .gt-tbl td.gt-r{text-align:right;}
+#gtws-widget .gt-tbl th:first-child{width:58px; white-space:nowrap;}
+#gtws-widget .gt-tbl td{
+  background:var(--gt-card); color:var(--gt-text) !important; border-top:1px solid var(--gt-line);
+  border-bottom:1px solid var(--gt-line); padding:11px 12px; font-size:14px; vertical-align:middle;
+}
+#gtws-widget .gt-tbl td:first-child{border-left:1px solid var(--gt-line); border-radius:11px 0 0 11px;}
+#gtws-widget .gt-tbl td:last-child{border-right:1px solid var(--gt-line); border-radius:0 11px 11px 0;}
+#gtws-widget .gt-tbl tr:hover td{background:var(--gt-card2);}
+#gtws-widget .gt-pos{color:var(--gt-muted) !important; font-weight:800; font-variant-numeric:tabular-nums; width:48px;}
+#gtws-widget .gt-tbl tr[data-top="1"] .gt-pos{color:var(--gt-gold) !important;}
+#gtws-widget .gt-who{display:flex; align-items:center; gap:9px;}
+#gtws-widget .gt-nm{color:var(--gt-text) !important; font-weight:700; font-size:14px;}
+#gtws-widget .gt-club{color:var(--gt-muted) !important; font-size:12.5px;}
+#gtws-widget .gt-pts{color:var(--gt-gold) !important; font-weight:800; font-variant-numeric:tabular-nums;}
+#gtws-widget .gt-cnt{color:var(--gt-muted) !important; font-size:13px; font-variant-numeric:tabular-nums;}
+
+/* ── 더보기 / 푸터 ── */
+#gtws-widget .gt-more{
+  display:block; width:100%; margin-top:10px; padding:12px;
+  color:var(--gt-text) !important; background:var(--gt-card); border:1px solid var(--gt-line);
+  border-radius:12px; font-size:13.5px; font-weight:700;
+}
+#gtws-widget .gt-more:hover{background:var(--gt-card2); border-color:#39424d;}
+#gtws-widget .gt-foot{color:var(--gt-dim) !important; font-size:11.5px; margin-top:18px; text-align:center;}
+#gtws-widget .gt-foot a{color:var(--gt-muted) !important; text-decoration:underline !important;}
+#gtws-widget .gt-err{color:#ffb4b4 !important; background:#2a1618; border:1px solid #57282c;
+  border-radius:12px; padding:16px; font-size:13.5px; line-height:1.6;}
+#gtws-widget .gt-hide{display:none !important;}
+
+/* ── 반응형 ── */
+@media (min-width:1000px){
+  #gtws-widget{padding:26px 26px 34px;}
+  #gtws-widget .gt-next{gap:16px;}
+  #gtws-widget .gt-card, #gtws-widget .gt-card .gt-body{min-height:280px;}
+  #gtws-widget .gt-cname{font-size:17px;}
+}
+@media (max-width:900px){
+  #gtws-widget .gt-next{grid-template-columns:1fr 1fr;}
+  #gtws-widget .gt-next > :nth-child(3){grid-column:span 2;}
+}
+@media (max-width:620px){
+  #gtws-widget{padding:16px 12px 24px; font-size:14px;}
+  #gtws-widget .gt-next{grid-template-columns:1fr;}
+  #gtws-widget .gt-next > :nth-child(3){grid-column:auto;}
+  #gtws-widget .gt-stamp{margin-left:0;}
+  #gtws-widget .gt-row{grid-template-columns:24px 1fr; gap:6px 10px; padding:12px;}
+  #gtws-widget .gt-row .gt-date{grid-column:1 / -1; order:-1;}
+  #gtws-widget .gt-rright{grid-column:1 / -1; flex-wrap:wrap;}
+  #gtws-widget .gt-tbl th:nth-child(3), #gtws-widget .gt-tbl td:nth-child(3),
+  #gtws-widget .gt-tbl th:nth-child(4), #gtws-widget .gt-tbl td:nth-child(4){display:none;}
+  #gtws-widget .gt-tbl th{white-space:nowrap; padding:0 9px 2px;}
+  #gtws-widget .gt-tbl th:first-child{width:40px;}
+  #gtws-widget .gt-tbl td{padding:10px 9px;}
+  #gtws-widget .gt-pos{width:34px;}
+  #gtws-widget .gt-nm{font-size:13.5px;}
+}
+</style>
+
+<script>
+(function () {
+  var ROOT = document.getElementById('gtws-widget');
+  if (!ROOT || ROOT.dataset.gtInit) return;
+  ROOT.dataset.gtInit = '1';
+
+  var PAGE = 30;                    // 처음 보여줄 랭킹 인원
+  var state = { tab: 'cal', sex: 'men', shown: PAGE, filter: 'all', hidePast: false, data: null };
+
+  /* ---------- 유틸 ---------- */
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+  }
+  function flag(cc) {
+    if (!cc) return '';
+    return '<img class="gt-flag" loading="lazy" alt="' + esc(cc.toUpperCase()) + '"' +
+           ' src="https://flagcdn.com/w40/' + esc(cc.toLowerCase()) + '.png"' +
+           ' onerror="this.style.visibility=\'hidden\'">';
+  }
+  function seriesPill(s) {
+    var ws = /World/i.test(s || '');
+    return '<span class="gt-pill ' + (ws ? 'gt-ws' : 'gt-ns') + '">' + esc(ws ? 'WORLD' : 'NATIONAL') + '</span>';
+  }
+  function todayISO() {
+    try {
+      return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
+    } catch (e) {
+      return new Date().toISOString().slice(0, 10);
+    }
+  }
+  function krDate(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    return m ? m[2] + '.' + m[3] : (iso || '');
+  }
+  function krFull(iso) {
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || '');
+    return m ? m[1] + '년 ' + (+m[2]) + '월 ' + (+m[3]) + '일' : (iso || '');
+  }
+  function stat(v) { return v ? '<span class="gt-pill">' + esc(v) + '</span>' : ''; }
+
+  /* ---------- 렌더 ---------- */
+  function raceCard(r) {
+    return '' +
+      '<a class="gt-card" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+        '<span class="gt-ph"></span>' +
+        (r.image ? '<img loading="lazy" alt="" src="' + esc(r.image) + '" onerror="this.style.display=\'none\'">' : '') +
+        '<span class="gt-scrim"></span>' +
+        '<span class="gt-top">' +
+          '<span class="gt-pill">' + esc(r.date) + '</span>' +
+          flag(r.country) +
+        '</span>' +
+        '<span class="gt-body">' +
+          '<span>' + seriesPill(r.series) + '</span>' +
+          '<span class="gt-cname">' + esc(r.name) + '</span>' +
+          (r.tagline ? '<span class="gt-ctag">' + esc(r.tagline) + '</span>' : '') +
+          '<span class="gt-cstats">' + stat(r.distance) + stat(r.elevation) +
+            (r.capacity ? '<span class="gt-pill">정원 ' + esc(r.capacity) + '</span>' : '') +
+          '</span>' +
+        '</span>' +
+      '</a>';
+  }
+
+  function raceRow(r, today) {
+    var done = r.dateISO && r.dateISO < today;
+    return '' +
+      '<a class="gt-row' + (done ? ' gt-done' : '') + '" href="' + esc(r.url) + '" target="_blank" rel="noopener">' +
+        '<span class="gt-date">' + esc(krDate(r.dateISO) || r.date) + (done ? ' 종료' : '') + '</span>' +
+        '<span>' + flag(r.country) + '</span>' +
+        '<span>' +
+          '<span class="gt-rname">' + esc(r.name) + '</span>' +
+          (r.tagline ? '<span class="gt-rmeta">' + esc(r.tagline) + '</span>' : '') +
+        '</span>' +
+        '<span class="gt-rright">' + stat(r.distance) + stat(r.elevation) + seriesPill(r.series) + '</span>' +
+      '</a>';
+  }
+
+  function renderCalendar(d) {
+    var today = todayISO();
+    var list = (d.races || []).filter(function (r) {
+      if (state.hidePast && r.dateISO && r.dateISO < today) return false;
+      return state.filter === 'all' ||
+        (state.filter === 'ws' && /World/i.test(r.series)) ||
+        (state.filter === 'ns' && /National/i.test(r.series));
+    });
+    var chips = [['all', '전체'], ['ws', 'World Series'], ['ns', 'National Series']].map(function (c) {
+      return '<button type="button" class="gt-chip" data-filter="' + c[0] + '" aria-pressed="' +
+        (state.filter === c[0] ? 'true' : 'false') + '">' + c[1] + '</button>';
+    }).join('') +
+      '<button type="button" class="gt-chip gt-chip-alt" data-past="1" aria-pressed="' +
+      (state.hidePast ? 'true' : 'false') + '">지난 대회 숨기기</button>';
+
+    return '' +
+      (d.nextUp && d.nextUp.length
+        ? '<div class="gt-h"><i></i><span>NEXT UP</span><em>다음 대회</em></div>' +
+          '<div class="gt-next">' + d.nextUp.map(raceCard).join('') + '</div>'
+        : '') +
+      '<div class="gt-h"><i></i><span>ALL RACES</span><em>' + list.length + '개 대회</em></div>' +
+      '<div class="gt-filter">' + chips + '</div>' +
+      '<div class="gt-list">' + (list.length ? list.map(function (r) { return raceRow(r, today); }).join('')
+        : '<div class="gt-row"><span class="gt-rname">해당하는 대회가 없습니다.</span></div>') + '</div>';
+  }
+
+  function renderRanking(d) {
+    var rows = (d.ranking && d.ranking[state.sex]) || [];
+    var visible = rows.slice(0, state.shown);
+    var body = visible.map(function (p) {
+      return '' +
+        '<tr data-top="' + (p.rank <= 3 ? '1' : '0') + '">' +
+          '<td class="gt-pos">' + esc(p.rank || '-') + '</td>' +
+          '<td><span class="gt-who">' + flag(p.country) + '<span class="gt-nm">' + esc(p.name) + '</span></span></td>' +
+          '<td class="gt-club">' + esc(p.club || '—') + '</td>' +
+          '<td class="gt-r gt-cnt">' + esc(p.raceCount || 0) + '</td>' +
+          '<td class="gt-r gt-pts">' + esc(p.points) + '</td>' +
+        '</tr>';
+    }).join('');
+
+    return '' +
+      '<div class="gt-h"><i></i><span>OVERALL RANKING</span><em>' + esc(d.edition || '') + ' World Series 종합</em></div>' +
+      '<div class="gt-seg">' +
+        '<button type="button" data-sex="men"   aria-selected="' + (state.sex === 'men' ? 'true' : 'false') + '">남자</button>' +
+        '<button type="button" data-sex="women" aria-selected="' + (state.sex === 'women' ? 'true' : 'false') + '">여자</button>' +
+      '</div>' +
+      (rows.length
+        ? '<table class="gt-tbl"><thead><tr>' +
+            '<th>순위</th><th>선수</th><th>팀</th><th class="gt-r">대회</th><th class="gt-r">포인트</th>' +
+          '</tr></thead><tbody>' + body + '</tbody></table>' +
+          (state.shown < rows.length
+            ? '<button type="button" class="gt-more" data-more="1">더보기 (' + (rows.length - state.shown) + '명 남음)</button>'
+            : '')
+        : '<div class="gt-row"><span class="gt-rname">랭킹 데이터가 아직 없습니다.</span></div>');
+  }
+
+  function render() {
+    var d = state.data;
+    if (!d) return;
+    ROOT.innerHTML = '' +
+      '<div class="gt-head">' +
+        '<div class="gt-title">GOLDEN TRAIL <b>SERIES</b></div>' +
+        '<div class="gt-stamp">업데이트 ' + esc(krFull(d.updatedDate)) + '</div>' +
+      '</div>' +
+      '<div class="gt-tabs" role="tablist">' +
+        '<button type="button" class="gt-tab" role="tab" data-tab="cal"  aria-selected="' + (state.tab === 'cal' ? 'true' : 'false') + '">대회 일정</button>' +
+        '<button type="button" class="gt-tab" role="tab" data-tab="rank" aria-selected="' + (state.tab === 'rank' ? 'true' : 'false') + '">세계 랭킹</button>' +
+      '</div>' +
+      '<div class="gt-panel">' + (state.tab === 'cal' ? renderCalendar(d) : renderRanking(d)) + '</div>' +
+      '<div class="gt-foot">자료 출처 · <a href="https://goldentrailseries.com/" target="_blank" rel="noopener">goldentrailseries.com</a>' +
+        ' · 매일 오전 8시 자동 갱신</div>';
+  }
+
+  /* ---------- 이벤트 (위임) ---------- */
+  ROOT.addEventListener('click', function (e) {
+    var t = e.target.closest('[data-tab],[data-sex],[data-filter],[data-more],[data-past]');
+    if (!t || !ROOT.contains(t)) return;
+    e.preventDefault();
+    if (t.dataset.tab) { state.tab = t.dataset.tab; state.shown = PAGE; }
+    else if (t.dataset.sex) { state.sex = t.dataset.sex; state.shown = PAGE; }
+    else if (t.dataset.filter) { state.filter = t.dataset.filter; }
+    else if (t.dataset.past) { state.hidePast = !state.hidePast; }
+    else if (t.dataset.more) { state.shown += PAGE; }
+    render();
+  });
+
+  /* ---------- 로드 ---------- */
+  function fail(msg, url) {
+    ROOT.innerHTML = '<div class="gt-err"><b>데이터를 불러오지 못했습니다.</b><br>' + esc(msg) +
+      '<br><br>확인할 주소: <code>' + esc(url) + '</code></div>';
+  }
+
+  if (window.GTWS_PREVIEW_DATA) {          // 로컬 미리보기용
+    state.data = window.GTWS_PREVIEW_DATA;
+    render();
+    return;
+  }
+
+  var url = ROOT.getAttribute('data-src') || '';
+  var bust = url + (url.indexOf('?') > -1 ? '&' : '?') + 'v=' + Math.floor(Date.now() / 36e5);
+
+  fetch(bust, { cache: 'no-store' })
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function (json) { state.data = json; render(); })
+    .catch(function (err) { fail(err.message, url); });
+})();
+</script>
+
+</div>
+</body>
+</html>
