@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-24T09:59:00+09:00",
-  "updatedDate": "2026-09-24",
-  "updatedTime": "09:59",
+  "updatedAt": "2026-09-25T10:02:00+09:00",
+  "updatedDate": "2026-09-25",
+  "updatedTime": "10:02",
   "edition": 2026,
   "counts": {
     "nextUp": 3,
@@ -461,7 +461,7 @@
       {
         "rank": 19,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Bergen Løpeklubb",
         "country": "no",
         "points": 299,
         "raceCount": 4
@@ -501,7 +501,7 @@
       {
         "rank": 24,
         "name": "VALENTIN TOMA",
-        "club": "Csa Steaua Bucure?ti",
+        "club": "Csa Steaua Bucuresti",
         "country": "ro",
         "points": 263,
         "raceCount": 3
