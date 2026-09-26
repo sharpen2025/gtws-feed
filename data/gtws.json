@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-25T10:02:00+09:00",
-  "updatedDate": "2026-09-25",
-  "updatedTime": "10:02",
+  "updatedAt": "2026-09-26T10:05:00+09:00",
+  "updatedDate": "2026-09-26",
+  "updatedTime": "10:05",
   "edition": 2026,
   "counts": {
     "nextUp": 3,
@@ -461,7 +461,7 @@
       {
         "rank": 19,
         "name": "ANDERS KJÆREVIK",
-        "club": "Bergen Løpeklubb",
+        "club": "",
         "country": "no",
         "points": 299,
         "raceCount": 4
@@ -532,7 +532,7 @@
       },
       {
         "rank": 28,
-        "name": "MAEL HENRIC",
+        "name": "MAËL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
