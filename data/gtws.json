@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T10:46:00+09:00",
-  "updatedDate": "2026-09-30",
-  "updatedTime": "10:46",
+  "updatedAt": "2026-10-01T10:43:00+09:00",
+  "updatedDate": "2026-10-01",
+  "updatedTime": "10:43",
   "edition": 2026,
   "counts": {
     "nextUp": 2,
@@ -440,7 +440,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -503,19 +503,19 @@
       },
       {
         "rank": 26,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": "",
-        "country": "es",
-        "points": 252,
-        "raceCount": 3
-      },
-      {
-        "rank": 27,
         "name": "ANDREA ROSTAN",
-        "club": "La Sportiva",
+        "club": " ",
         "country": "it",
         "points": 251,
         "raceCount": 2
+      },
+      {
+        "rank": 27,
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
+        "country": "es",
+        "points": 249,
+        "raceCount": 3
       },
       {
         "rank": 28,
@@ -535,7 +535,7 @@
       },
       {
         "rank": 30,
-        "name": "MAEL HENRIC",
+        "name": "MAËL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
@@ -919,9 +919,9 @@
       },
       {
         "rank": 58,
-        "name": "YUTAO ZHU",
-        "club": "Salomon",
-        "country": "cn",
+        "name": "ROMAIN CHARMEY",
+        "club": "KINOMAP",
+        "country": "fr",
         "points": 106,
         "raceCount": 1
       },
@@ -938,6 +938,14 @@
         "name": "MAXIMILIEN DRION",
         "club": "Asics",
         "country": "be",
+        "points": 103,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "YUTAO ZHU",
+        "club": "Salomon",
+        "country": "cn",
         "points": 103,
         "raceCount": 1
       },
@@ -1092,14 +1100,6 @@
         "country": "it",
         "points": 91,
         "raceCount": 1
-      },
-      {
-        "rank": 67,
-        "name": "HUGO DANSEREAU",
-        "club": "",
-        "country": "ca",
-        "points": 91,
-        "raceCount": 1
       }
     ],
     "women": [
@@ -1138,7 +1138,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": " ",
+        "club": "IRCZRH",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1322,7 +1322,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers",
+        "club": "Lowa Trail Racers/ La Nidwalden",
         "country": "ch",
         "points": 185,
         "raceCount": 2
@@ -1386,7 +1386,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo",
+        "club": "Ssd Tremalzo - Salomon Italia",
         "country": "it",
         "points": 158,
         "raceCount": 3
