@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-02T10:54:00+09:00",
-  "updatedDate": "2026-10-02",
-  "updatedTime": "10:54",
+  "updatedAt": "2026-10-03T10:35:00+09:00",
+  "updatedDate": "2026-10-03",
+  "updatedTime": "10:35",
   "edition": 2026,
   "counts": {
     "nextUp": 2,
@@ -440,7 +440,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "Vj/Saysky",
+        "club": "",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -600,7 +600,7 @@
       {
         "rank": 37,
         "name": "MASSIMILIANO BERTI",
-        "club": "Asd Sicilia Running Team",
+        "club": "Sicilia Running Team",
         "country": "it",
         "points": 157,
         "raceCount": 2
@@ -1138,7 +1138,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "IRCZRH",
+        "club": "Irczrh",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1322,7 +1322,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers",
+        "club": "Lowa Trail Racers/ La Nidwalden",
         "country": "ch",
         "points": 185,
         "raceCount": 2
