@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-03T10:35:00+09:00",
-  "updatedDate": "2026-10-03",
-  "updatedTime": "10:35",
+  "updatedAt": "2026-10-04T11:16:00+09:00",
+  "updatedDate": "2026-10-04",
+  "updatedTime": "11:16",
   "edition": 2026,
   "counts": {
     "nextUp": 2,
@@ -440,7 +440,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -511,8 +511,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -535,7 +535,7 @@
       },
       {
         "rank": 30,
-        "name": "MAEL HENRIC",
+        "name": "MAËL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
@@ -600,7 +600,7 @@
       {
         "rank": 37,
         "name": "MASSIMILIANO BERTI",
-        "club": "Sicilia Running Team",
+        "club": "Asd Sicilia Running Team",
         "country": "it",
         "points": 157,
         "raceCount": 2
@@ -1322,7 +1322,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers/ La Nidwalden",
+        "club": "Lowa Trail Racers",
         "country": "ch",
         "points": 185,
         "raceCount": 2
@@ -1386,7 +1386,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo - Salomon Italia",
+        "club": "Ssd Tremalzo",
         "country": "it",
         "points": 158,
         "raceCount": 3
