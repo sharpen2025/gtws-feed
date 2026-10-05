@@ -1,28 +1,15 @@
 {
-  "updatedAt": "2026-10-04T11:16:00+09:00",
-  "updatedDate": "2026-10-04",
-  "updatedTime": "11:16",
+  "updatedAt": "2026-10-05T10:26:00+09:00",
+  "updatedDate": "2026-10-05",
+  "updatedTime": "10:26",
   "edition": 2026,
   "counts": {
-    "nextUp": 2,
+    "nextUp": 1,
     "races": 20,
     "men": 100,
     "women": 100
   },
   "nextUp": [
-    {
-      "date": "04/10/2026",
-      "country": "es",
-      "series": "National Series",
-      "name": "SALOMON MITJA PIRINEU",
-      "tagline": "The best views of Pedraforca",
-      "distance": "21 km",
-      "elevation": "1,400 m",
-      "capacity": "1,000",
-      "url": "https://goldentrailseries.com/race/salomon-mitja-pirineu/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94.jpg",
-      "dateISO": "2026-10-04"
-    },
     {
       "date": "24/10/2026",
       "country": "kr",
@@ -368,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -511,8 +498,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZALEZ",
-        "club": "",
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -535,7 +522,7 @@
       },
       {
         "rank": 30,
-        "name": "MAËL HENRIC",
+        "name": "MAEL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
