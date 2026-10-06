@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T10:26:00+09:00",
-  "updatedDate": "2026-10-05",
-  "updatedTime": "10:26",
+  "updatedAt": "2026-10-06T11:36:00+09:00",
+  "updatedDate": "2026-10-06",
+  "updatedTime": "11:36",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
+        "club": "",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -498,8 +498,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo",
+        "club": "Ssd Tremalzo - Salomon Italia",
         "country": "it",
         "points": 158,
         "raceCount": 3
