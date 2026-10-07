@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-06T11:36:00+09:00",
-  "updatedDate": "2026-10-06",
-  "updatedTime": "11:36",
+  "updatedAt": "2026-10-07T10:55:00+09:00",
+  "updatedDate": "2026-10-07",
+  "updatedTime": "10:55",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -498,8 +498,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZALEZ",
-        "club": "",
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "Irczrh",
+        "club": "IRCZRH",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1309,7 +1309,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers",
+        "club": "Lowa Trail Racers/ La Nidwalden",
         "country": "ch",
         "points": 185,
         "raceCount": 2
@@ -1349,7 +1349,7 @@
       {
         "rank": 31,
         "name": "ALEXA ARAGON",
-        "club": "Mammut/Lasportiva",
+        "club": "",
         "country": "us",
         "points": 168,
         "raceCount": 2
