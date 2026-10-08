@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-07T10:55:00+09:00",
-  "updatedDate": "2026-10-07",
-  "updatedTime": "10:55",
+  "updatedAt": "2026-10-08T10:19:00+09:00",
+  "updatedDate": "2026-10-08",
+  "updatedTime": "10:19",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
+        "club": "",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -498,8 +498,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -522,7 +522,7 @@
       },
       {
         "rank": 30,
-        "name": "MAEL HENRIC",
+        "name": "MAËL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "IRCZRH",
+        "club": "Irczrh",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1173,7 +1173,7 @@
       {
         "rank": 11,
         "name": "CATERINA STENTA",
-        "club": "Joma",
+        "club": "Joma Sport/Suunto",
         "country": "it",
         "points": 463,
         "raceCount": 4
@@ -1309,7 +1309,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers/ La Nidwalden",
+        "club": "Lowa Trail Racers",
         "country": "ch",
         "points": 185,
         "raceCount": 2
