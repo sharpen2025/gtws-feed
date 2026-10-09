@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-08T11:23:00+09:00",
-  "updatedDate": "2026-10-08",
-  "updatedTime": "11:23",
+  "updatedAt": "2026-10-09T11:40:00+09:00",
+  "updatedDate": "2026-10-09",
+  "updatedTime": "11:40",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -498,8 +498,8 @@
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZALEZ",
-        "club": "",
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -522,7 +522,7 @@
       },
       {
         "rank": 30,
-        "name": "MAËL HENRIC",
+        "name": "MAEL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
