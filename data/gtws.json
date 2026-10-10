@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-09T11:40:00+09:00",
-  "updatedDate": "2026-10-09",
-  "updatedTime": "11:40",
+  "updatedAt": "2026-10-10T11:00:00+09:00",
+  "updatedDate": "2026-10-10",
+  "updatedTime": "11:00",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "Irczrh",
+        "club": "IRCZRH",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1173,7 +1173,7 @@
       {
         "rank": 11,
         "name": "CATERINA STENTA",
-        "club": "Joma Sport/Suunto",
+        "club": "Joma",
         "country": "it",
         "points": 463,
         "raceCount": 4
@@ -1349,7 +1349,7 @@
       {
         "rank": 31,
         "name": "ALEXA ARAGON",
-        "club": "",
+        "club": "Mammut/Lasportiva",
         "country": "us",
         "points": 168,
         "raceCount": 2
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo - Salomon Italia",
+        "club": "Ssd Tremalzo",
         "country": "it",
         "points": 158,
         "raceCount": 3
