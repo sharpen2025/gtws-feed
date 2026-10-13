@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-12T10:56:00+09:00",
-  "updatedDate": "2026-10-12",
-  "updatedTime": "10:56",
+  "updatedAt": "2026-10-13T12:17:00+09:00",
+  "updatedDate": "2026-10-13",
+  "updatedTime": "12:17",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -427,7 +427,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "Vj/Saysky",
+        "club": "",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -443,7 +443,7 @@
       {
         "rank": 20,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 351,
         "raceCount": 4
@@ -491,15 +491,15 @@
       {
         "rank": 26,
         "name": "ANDREA ROSTAN",
-        "club": " ",
+        "club": "La Sportiva",
         "country": "it",
         "points": 251,
         "raceCount": 2
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZALEZ",
-        "club": "",
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -522,7 +522,7 @@
       },
       {
         "rank": 30,
-        "name": "MAËL HENRIC",
+        "name": "MAEL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
