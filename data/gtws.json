@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-13T12:17:00+09:00",
-  "updatedDate": "2026-10-13",
-  "updatedTime": "12:17",
+  "updatedAt": "2026-10-14T10:30:00+09:00",
+  "updatedDate": "2026-10-14",
+  "updatedTime": "10:30",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -16,8 +16,8 @@
       "series": "World Series",
       "name": "MUJU TRAIL GRAND FINALE",
       "tagline": "Stitched by strides",
-      "distance": "25,6 km",
-      "elevation": "2,294 m",
+      "distance": "27,8 km",
+      "elevation": "2,408 m",
       "capacity": "5,000",
       "url": "https://goldentrailseries.com/race/muju-trail/",
       "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
@@ -278,8 +278,8 @@
       "series": "World Series",
       "name": "MUJU TRAIL GRAND FINALE",
       "tagline": "Stitched by strides",
-      "distance": "25,6 km",
-      "elevation": "2,294 m",
+      "distance": "27,8 km",
+      "elevation": "2,408 m",
       "capacity": "5,000",
       "url": "https://goldentrailseries.com/race/muju-trail/",
       "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
@@ -427,7 +427,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -443,7 +443,7 @@
       {
         "rank": 20,
         "name": "TAIGA YAMAGUCHI",
-        "club": " ",
+        "club": "",
         "country": "jp",
         "points": 351,
         "raceCount": 4
@@ -491,15 +491,15 @@
       {
         "rank": 26,
         "name": "ANDREA ROSTAN",
-        "club": "La Sportiva",
+        "club": " ",
         "country": "it",
         "points": 251,
         "raceCount": 2
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
         "country": "es",
         "points": 249,
         "raceCount": 3
@@ -522,7 +522,7 @@
       },
       {
         "rank": 30,
-        "name": "MAEL HENRIC",
+        "name": "MAËL HENRIC",
         "club": "Salomon",
         "country": "fr",
         "points": 206,
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "Irczrh",
+        "club": "IRCZRH",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1173,7 +1173,7 @@
       {
         "rank": 11,
         "name": "CATERINA STENTA",
-        "club": "Joma Sport/Suunto",
+        "club": "Joma",
         "country": "it",
         "points": 463,
         "raceCount": 4
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo - Salomon Italia",
+        "club": "Ssd Tremalzo",
         "country": "it",
         "points": 158,
         "raceCount": 3
