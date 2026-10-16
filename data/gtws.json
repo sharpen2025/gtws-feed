@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-15T10:08:00+09:00",
-  "updatedDate": "2026-10-15",
-  "updatedTime": "10:08",
+  "updatedAt": "2026-10-16T09:55:00+09:00",
+  "updatedDate": "2026-10-16",
+  "updatedTime": "09:55",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -427,7 +427,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -443,7 +443,7 @@
       {
         "rank": 20,
         "name": "TAIGA YAMAGUCHI",
-        "club": " ",
+        "club": "",
         "country": "jp",
         "points": 351,
         "raceCount": 4
@@ -491,7 +491,7 @@
       {
         "rank": 26,
         "name": "ANDREA ROSTAN",
-        "club": "La Sportiva",
+        "club": " ",
         "country": "it",
         "points": 251,
         "raceCount": 2
@@ -1173,7 +1173,7 @@
       {
         "rank": 11,
         "name": "CATERINA STENTA",
-        "club": "Joma Sport/Suunto",
+        "club": "Joma",
         "country": "it",
         "points": 463,
         "raceCount": 4
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo - Salomon Italia",
+        "club": "Ssd Tremalzo",
         "country": "it",
         "points": 158,
         "raceCount": 3
