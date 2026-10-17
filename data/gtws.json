@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-16T09:55:00+09:00",
-  "updatedDate": "2026-10-16",
+  "updatedAt": "2026-10-17T09:55:00+09:00",
+  "updatedDate": "2026-10-17",
   "updatedTime": "09:55",
   "edition": 2026,
   "counts": {
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -587,7 +587,7 @@
       {
         "rank": 37,
         "name": "MASSIMILIANO BERTI",
-        "club": "Asd Sicilia Running Team",
+        "club": "Sicilia Running Team",
         "country": "it",
         "points": 157,
         "raceCount": 2
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "Irczrh",
+        "club": "IRCZRH",
         "country": "de",
         "points": 718,
         "raceCount": 4
