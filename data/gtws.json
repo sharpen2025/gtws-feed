@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T09:55:00+09:00",
-  "updatedDate": "2026-10-17",
-  "updatedTime": "09:55",
+  "updatedAt": "2026-10-18T09:30:00+09:00",
+  "updatedDate": "2026-10-18",
+  "updatedTime": "09:30",
   "edition": 2026,
   "counts": {
     "nextUp": 1,
@@ -355,7 +355,7 @@
       {
         "rank": 9,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
+        "club": "",
         "country": "mx",
         "points": 539,
         "raceCount": 4
@@ -427,7 +427,7 @@
       {
         "rank": 18,
         "name": "ANDERS KJÆREVIK",
-        "club": "Vj/Saysky",
+        "club": "",
         "country": "no",
         "points": 412,
         "raceCount": 5
@@ -443,7 +443,7 @@
       {
         "rank": 20,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 351,
         "raceCount": 4
@@ -587,7 +587,7 @@
       {
         "rank": 37,
         "name": "MASSIMILIANO BERTI",
-        "club": "Sicilia Running Team",
+        "club": "Asd Sicilia Running Team",
         "country": "it",
         "points": 157,
         "raceCount": 2
@@ -1125,7 +1125,7 @@
       {
         "rank": 5,
         "name": "HANNA GRÖBER",
-        "club": "IRCZRH",
+        "club": "Irczrh",
         "country": "de",
         "points": 718,
         "raceCount": 4
@@ -1173,7 +1173,7 @@
       {
         "rank": 11,
         "name": "CATERINA STENTA",
-        "club": "Joma",
+        "club": "Joma Sport/Suunto",
         "country": "it",
         "points": 463,
         "raceCount": 4
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo",
+        "club": "Ssd Tremalzo - Salomon Italia",
         "country": "it",
         "points": 158,
         "raceCount": 3
