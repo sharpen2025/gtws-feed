@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T10:07:00+09:00",
-  "updatedDate": "2026-10-22",
+  "updatedAt": "2026-10-23T10:07:00+09:00",
+  "updatedDate": "2026-10-23",
   "updatedTime": "10:07",
   "edition": 2026,
   "counts": {
@@ -587,7 +587,7 @@
       {
         "rank": 37,
         "name": "MASSIMILIANO BERTI",
-        "club": "Asd Sicilia Running Team",
+        "club": "Sicilia Running Team",
         "country": "it",
         "points": 157,
         "raceCount": 2
@@ -1309,7 +1309,7 @@
       {
         "rank": 28,
         "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers/ La Nidwalden",
+        "club": "Lowa Trail Racers",
         "country": "ch",
         "points": 185,
         "raceCount": 2
@@ -1373,7 +1373,7 @@
       {
         "rank": 34,
         "name": "CELESTE ZANELLA",
-        "club": "Ssd Tremalzo - Salomon Italia",
+        "club": "Ssd Tremalzo",
         "country": "it",
         "points": 158,
         "raceCount": 3
