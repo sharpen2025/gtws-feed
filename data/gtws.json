@@ -1,29 +1,15 @@
 {
-  "updatedAt": "2026-10-24T10:16:00+09:00",
-  "updatedDate": "2026-10-24",
-  "updatedTime": "10:16",
+  "updatedAt": "2026-10-25T09:42:00+09:00",
+  "updatedDate": "2026-10-25",
+  "updatedTime": "09:42",
   "edition": 2026,
   "counts": {
-    "nextUp": 1,
+    "nextUp": 0,
     "races": 20,
     "men": 33,
-    "women": 24
+    "women": 39
   },
-  "nextUp": [
-    {
-      "date": "24/10/2026",
-      "country": "kr",
-      "series": "World Series",
-      "name": "MUJU TRAIL GRAND FINALE",
-      "tagline": "Stitched by strides",
-      "distance": "27,8 km",
-      "elevation": "2,408 m",
-      "capacity": "5,000",
-      "url": "https://goldentrailseries.com/race/muju-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
-      "dateISO": "2026-10-24"
-    }
-  ],
+  "nextUp": [],
   "races": [
     {
       "date": "08/03/2026",
@@ -559,35 +545,75 @@
         "name": "MADALINA FLOREA",
         "club": "Scott",
         "country": "ro",
-        "points": 872,
-        "raceCount": 4
+        "points": 1164,
+        "raceCount": 5
       },
       {
         "rank": 2,
         "name": "CAROLINE KIMUTAI",
         "club": "Salomon",
         "country": "ke",
-        "points": 806,
-        "raceCount": 4
+        "points": 1016,
+        "raceCount": 5
       },
       {
         "rank": 3,
         "name": "RUTH MWIHAKI GITONGA",
         "club": "Run2gether On Trail",
         "country": "ke",
-        "points": 766,
-        "raceCount": 5
+        "points": 982,
+        "raceCount": 6
       },
       {
         "rank": 4,
         "name": "BARBORA BUKOVJAN",
         "club": "Salomon",
         "country": "cz",
-        "points": 732,
-        "raceCount": 5
+        "points": 974,
+        "raceCount": 6
       },
       {
         "rank": 5,
+        "name": "MARIE NIVET",
+        "club": "Nike Acg",
+        "country": "fr",
+        "points": 892,
+        "raceCount": 6
+      },
+      {
+        "rank": 6,
+        "name": "SILVIA SCHWAIGER",
+        "club": "Salomon",
+        "country": "sk",
+        "points": 765,
+        "raceCount": 5
+      },
+      {
+        "rank": 7,
+        "name": "THERES LEBOEUF",
+        "club": "Compressport / Lowa",
+        "country": "ch",
+        "points": 764,
+        "raceCount": 5
+      },
+      {
+        "rank": 8,
+        "name": "ESTEL ROIG FORTIN",
+        "club": "Scott",
+        "country": "es",
+        "points": 737,
+        "raceCount": 5
+      },
+      {
+        "rank": 9,
+        "name": "RENÉE CARDINAALS",
+        "club": "All4running / Esprit Montagne",
+        "country": "nl",
+        "points": 730,
+        "raceCount": 6
+      },
+      {
+        "rank": 10,
         "name": "HANNA GRÖBER",
         "club": "Nike Acg",
         "country": "de",
@@ -595,155 +621,235 @@
         "raceCount": 4
       },
       {
-        "rank": 6,
-        "name": "MARIE NIVET",
-        "club": "Nike Acg",
-        "country": "fr",
-        "points": 687,
-        "raceCount": 5
-      },
-      {
-        "rank": 7,
-        "name": "SILVIA SCHWAIGER",
-        "club": "Salomon",
-        "country": "sk",
-        "points": 568,
-        "raceCount": 4
-      },
-      {
-        "rank": 8,
-        "name": "ESTEL ROIG FORTIN",
-        "club": "Scott",
-        "country": "es",
-        "points": 551,
-        "raceCount": 4
-      },
-      {
-        "rank": 9,
-        "name": "THERES LEBOEUF",
-        "club": "Compressport / Lowa",
-        "country": "ch",
-        "points": 529,
-        "raceCount": 4
-      },
-      {
-        "rank": 10,
-        "name": "ELISA PRESA",
-        "club": "Salomon",
-        "country": "it",
-        "points": 442,
-        "raceCount": 4
-      },
-      {
         "rank": 11,
-        "name": "NAIARA IRIGOYEN",
-        "club": "X-Bionic Integrity",
-        "country": "es",
-        "points": 397,
+        "name": "MADALINA AMARIEI",
+        "club": "Kailas Fuga",
+        "country": "ro",
+        "points": 641,
         "raceCount": 4
       },
       {
         "rank": 12,
-        "name": "MADALINA AMARIEI",
-        "club": "Kailas Fuga",
-        "country": "ro",
-        "points": 386,
-        "raceCount": 3
+        "name": "ELISA PRESA",
+        "club": "Salomon",
+        "country": "it",
+        "points": 605,
+        "raceCount": 5
       },
       {
         "rank": 13,
-        "name": "VALENTINE RUTTO",
-        "club": "Atletica Saluzzo",
-        "country": "ke",
-        "points": 360,
-        "raceCount": 3
+        "name": "NAIARA IRIGOYEN",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 584,
+        "raceCount": 5
       },
       {
         "rank": 14,
-        "name": "SYDNEY PETERSEN",
-        "club": "Brooks",
-        "country": "us",
-        "points": 318,
+        "name": "VALENTINE RUTTO",
+        "club": "Atletica Saluzzo",
+        "country": "ke",
+        "points": 537,
         "raceCount": 4
       },
       {
         "rank": 15,
-        "name": "MIRIAM CHEPKIRUI",
-        "club": "Run2gether On Trail",
-        "country": "ke",
-        "points": 300,
+        "name": "ANDREA KOLBEINSDÓTTIR",
+        "club": "Salomon",
+        "country": "is",
+        "points": 490,
         "raceCount": 2
       },
       {
         "rank": 16,
-        "name": "TOVE ALEXANDERSSON",
-        "club": "Salomon",
-        "country": "se",
-        "points": 230,
-        "raceCount": 1
+        "name": "SYDNEY PETERSEN",
+        "club": "Brooks",
+        "country": "us",
+        "points": 450,
+        "raceCount": 5
       },
       {
         "rank": 17,
         "name": "PEMA FRANCHI",
         "club": "Norda",
         "country": "ec",
-        "points": 206,
-        "raceCount": 2
+        "points": 356,
+        "raceCount": 3
       },
       {
         "rank": 18,
-        "name": "JOYCE MUTHONI NJERU",
-        "club": "Nnormal",
-        "country": "ke",
-        "points": 194,
-        "raceCount": 1
+        "name": "SELINA BURCH",
+        "club": "Lowa Trail Racers/ La Nidwalden",
+        "country": "ch",
+        "points": 326,
+        "raceCount": 3
       },
       {
         "rank": 19,
-        "name": "MORVEN GOODRUM",
-        "club": "Windsor Slough Eton And Hounslow",
-        "country": "gb",
-        "points": 186,
+        "name": "MIRIAM MORALES HERNÁNDEZ",
+        "club": "Mexico Imparable",
+        "country": "mx",
+        "points": 272,
         "raceCount": 1
       },
       {
         "rank": 20,
-        "name": "SELINA BURCH",
-        "club": "Lowa Trail Racers/ La Nidwalden",
-        "country": "ch",
-        "points": 185,
-        "raceCount": 2
-      },
-      {
-        "rank": 21,
-        "name": "NINA ENGELHARD",
-        "club": "Psv Grün Weiß Kassel",
-        "country": "de",
-        "points": 172,
+        "name": "BEATRICE BIANCHI",
+        "club": "Salomon",
+        "country": "it",
+        "points": 214,
         "raceCount": 1
       },
       {
         "rank": 21,
-        "name": "ORIA LIACI",
-        "club": "Brooks",
-        "country": "ch",
-        "points": 172,
+        "name": "URSZULA PAPROCKA",
+        "club": "Beskidy Trail",
+        "country": "pl",
+        "points": 174,
         "raceCount": 1
       },
       {
         "rank": 22,
-        "name": "ANDREA KOLBEINSDÓTTIR",
-        "club": "Salomon",
-        "country": "is",
+        "name": "ARIANNA DEL PINO",
+        "club": "Nnormal",
+        "country": "it",
         "points": 168,
         "raceCount": 1
       },
       {
         "rank": 23,
-        "name": "COURTNEY COPPINGER",
-        "club": "Brooks",
-        "country": "us",
+        "name": "KITTI POSZTÓS",
+        "club": "Hegyikecskék Se",
+        "country": "hu",
+        "points": 159,
+        "raceCount": 1
+      },
+      {
+        "rank": 24,
+        "name": "SYLWIA KAPUSTA",
+        "club": "Hoka Garmin Team",
+        "country": "pl",
+        "points": 154,
+        "raceCount": 1
+      },
+      {
+        "rank": 25,
+        "name": "MINA TERADA",
+        "club": "Salomon",
+        "country": "jp",
+        "points": 145,
+        "raceCount": 1
+      },
+      {
+        "rank": 26,
+        "name": "PARK SOOJI",
+        "club": "The North Face",
+        "country": "kr",
+        "points": 136,
+        "raceCount": 1
+      },
+      {
+        "rank": 27,
+        "name": "KIM HAEJU",
+        "club": "Salomon",
+        "country": "kr",
         "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 28,
+        "name": "MARIA GUSMEROLI",
+        "club": "Team Valtellina",
+        "country": "it",
+        "points": 123,
+        "raceCount": 1
+      },
+      {
+        "rank": 29,
+        "name": "YANG JOOHA",
+        "club": "Kolon Sport",
+        "country": "kr",
+        "points": 118,
+        "raceCount": 1
+      },
+      {
+        "rank": 30,
+        "name": "KIM DASEUL",
+        "club": "Salomon",
+        "country": "kr",
+        "points": 114,
+        "raceCount": 1
+      },
+      {
+        "rank": 31,
+        "name": "HONG MOONYOUNG",
+        "club": " ",
+        "country": "kr",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 32,
+        "name": "KIM SEONYEONG",
+        "club": "Mammut",
+        "country": "kr",
+        "points": 105,
+        "raceCount": 1
+      },
+      {
+        "rank": 33,
+        "name": "KIM YEONUN",
+        "club": " ",
+        "country": "kr",
+        "points": 100,
+        "raceCount": 1
+      },
+      {
+        "rank": 34,
+        "name": "IANA KIM",
+        "club": " ",
+        "country": "ru",
+        "points": 96,
+        "raceCount": 1
+      },
+      {
+        "rank": 35,
+        "name": "TATIANA KAMALDINOVA",
+        "club": " ",
+        "country": "ru",
+        "points": 91,
+        "raceCount": 1
+      },
+      {
+        "rank": 36,
+        "name": "KANG HYERIM",
+        "club": "Jeju Orem",
+        "country": "kr",
+        "points": 87,
+        "raceCount": 1
+      },
+      {
+        "rank": 37,
+        "name": "KANG SI EUN",
+        "club": " ",
+        "country": "kr",
+        "points": 82,
+        "raceCount": 1
+      },
+      {
+        "rank": 38,
+        "name": "KIM JIEUN",
+        "club": " ",
+        "country": "kr",
+        "points": 78,
+        "raceCount": 1
+      },
+      {
+        "rank": 39,
+        "name": "KATERINA SOLOVIEVA",
+        "club": " ",
+        "country": "ru",
+        "points": 73,
         "raceCount": 1
       }
     ]
