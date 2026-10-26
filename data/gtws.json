@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-25T09:42:00+09:00",
-  "updatedDate": "2026-10-25",
-  "updatedTime": "09:42",
+  "updatedAt": "2026-10-26T09:53:00+09:00",
+  "updatedDate": "2026-10-26",
+  "updatedTime": "09:53",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
     "races": 20,
-    "men": 33,
+    "men": 62,
     "women": 39
   },
   "nextUp": [],
@@ -276,10 +276,10 @@
     "men": [
       {
         "rank": 1,
-        "name": "PHILEMON OMBOGO KIRIAGO",
-        "club": "Run2gether On Trail",
-        "country": "ke",
-        "points": 870,
+        "name": "ELHOUSINE ELAZZAOUI",
+        "club": "Nnormal",
+        "country": "ma",
+        "points": 1130,
         "raceCount": 5
       },
       {
@@ -287,135 +287,135 @@
         "name": "PATRICK KIPNGENO",
         "club": "Run2gether On Trail",
         "country": "ke",
-        "points": 830,
-        "raceCount": 5
+        "points": 1128,
+        "raceCount": 6
       },
       {
         "rank": 3,
-        "name": "ELHOUSINE ELAZZAOUI",
-        "club": "Nnormal",
-        "country": "ma",
-        "points": 824,
-        "raceCount": 4
+        "name": "PHILEMON OMBOGO KIRIAGO",
+        "club": "Run2gether On Trail",
+        "country": "ke",
+        "points": 1075,
+        "raceCount": 6
       },
       {
         "rank": 4,
         "name": "MICHAEL SELELO SAOLI",
         "club": "Run2gether On Trail",
         "country": "ke",
-        "points": 764,
-        "raceCount": 5
+        "points": 968,
+        "raceCount": 6
       },
       {
         "rank": 5,
         "name": "TIMOTHY KIBETT",
         "club": "Salomon",
         "country": "ke",
-        "points": 650,
-        "raceCount": 4
+        "points": 922,
+        "raceCount": 5
       },
       {
         "rank": 6,
         "name": "NASHON KIPLIMO",
         "club": "Salomon",
         "country": "ke",
-        "points": 621,
-        "raceCount": 4
+        "points": 820,
+        "raceCount": 5
       },
       {
         "rank": 7,
-        "name": "EZEKIEL RUTTO",
-        "club": "Salomon",
-        "country": "ke",
-        "points": 598,
-        "raceCount": 4
-      },
-      {
-        "rank": 8,
         "name": "BOGDAN DAMIAN",
         "club": "Kailas Fuga",
         "country": "ro",
-        "points": 590,
-        "raceCount": 6
+        "points": 812,
+        "raceCount": 7
+      },
+      {
+        "rank": 8,
+        "name": "EZEKIEL RUTTO",
+        "club": "Salomon",
+        "country": "ke",
+        "points": 770,
+        "raceCount": 5
       },
       {
         "rank": 9,
-        "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
-        "country": "mx",
-        "points": 539,
-        "raceCount": 4
+        "name": "ALAIN SANTAMARÍA",
+        "club": "X-Bionic Integrity",
+        "country": "es",
+        "points": 759,
+        "raceCount": 5
       },
       {
         "rank": 10,
-        "name": "ISACCO COSTA",
-        "club": "La Sportiva",
-        "country": "it",
-        "points": 533,
+        "name": "JOEY HADORN",
+        "club": "Salomon",
+        "country": "ch",
+        "points": 743,
         "raceCount": 5
       },
       {
         "rank": 11,
-        "name": "ALAIN SANTAMARÍA",
-        "club": "X-Bionic Integrity",
-        "country": "es",
-        "points": 515,
-        "raceCount": 4
+        "name": "BRAYAN RODRÍGUEZ",
+        "club": "",
+        "country": "mx",
+        "points": 729,
+        "raceCount": 5
       },
       {
         "rank": 12,
         "name": "SAMWEL KIPROTICH",
         "club": "Salomon",
         "country": "ke",
-        "points": 508,
-        "raceCount": 4
+        "points": 718,
+        "raceCount": 5
       },
       {
         "rank": 13,
-        "name": "JONAS SOLDINI",
-        "club": "Salomon",
-        "country": "ch",
-        "points": 494,
-        "raceCount": 4
+        "name": "ISACCO COSTA",
+        "club": "La Sportiva",
+        "country": "it",
+        "points": 710,
+        "raceCount": 6
       },
       {
         "rank": 14,
-        "name": "JOEY HADORN",
+        "name": "JONAS SOLDINI",
         "club": "Salomon",
         "country": "ch",
-        "points": 488,
-        "raceCount": 4
+        "points": 680,
+        "raceCount": 5
       },
       {
         "rank": 15,
         "name": "TAYLOR STACK",
         "club": "Brooks",
         "country": "us",
-        "points": 452,
-        "raceCount": 4
+        "points": 677,
+        "raceCount": 5
       },
       {
         "rank": 16,
         "name": "RYUNOSUKE OMI",
         "club": "Salomon",
         "country": "jp",
-        "points": 445,
-        "raceCount": 4
+        "points": 604,
+        "raceCount": 5
       },
       {
         "rank": 17,
-        "name": "CHRISTIAN ALLEN",
-        "club": "Nike Acg",
-        "country": "us",
-        "points": 432,
-        "raceCount": 3
-      },
-      {
-        "rank": 18,
         "name": "ANDERS KJÆREVIK",
         "club": "Vj/Saysky",
         "country": "no",
-        "points": 412,
+        "points": 565,
+        "raceCount": 6
+      },
+      {
+        "rank": 18,
+        "name": "TAIGA YAMAGUCHI",
+        "club": "",
+        "country": "jp",
+        "points": 532,
         "raceCount": 5
       },
       {
@@ -423,27 +423,51 @@
         "name": "VALENTIN TOMA",
         "club": "Csa Steaua Bucuresti",
         "country": "ro",
-        "points": 374,
-        "raceCount": 4
+        "points": 528,
+        "raceCount": 5
       },
       {
         "rank": 20,
-        "name": "TAIGA YAMAGUCHI",
-        "club": "",
-        "country": "jp",
-        "points": 351,
-        "raceCount": 4
+        "name": "ANDREA ROSTAN",
+        "club": " ",
+        "country": "it",
+        "points": 419,
+        "raceCount": 3
       },
       {
         "rank": 21,
-        "name": "DANIEL PATTIS",
-        "club": "Brooks",
-        "country": "it",
-        "points": 324,
-        "raceCount": 2
+        "name": "ADAM SJOLUND",
+        "club": "Ponderosa Pirates",
+        "country": "us",
+        "points": 418,
+        "raceCount": 4
       },
       {
         "rank": 22,
+        "name": "MATTIA TANARA",
+        "club": "Scott",
+        "country": "it",
+        "points": 410,
+        "raceCount": 4
+      },
+      {
+        "rank": 23,
+        "name": "ROSS GOLLAN",
+        "club": "Nike Acg",
+        "country": "gb",
+        "points": 387,
+        "raceCount": 5
+      },
+      {
+        "rank": 24,
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
+        "country": "es",
+        "points": 331,
+        "raceCount": 4
+      },
+      {
+        "rank": 25,
         "name": "PAUL MACHOKA",
         "club": "Atletica Saluzzo",
         "country": "ke",
@@ -451,79 +475,111 @@
         "raceCount": 2
       },
       {
-        "rank": 23,
-        "name": "ADAM SJOLUND",
-        "club": "Ponderosa Pirates",
-        "country": "us",
-        "points": 295,
-        "raceCount": 3
-      },
-      {
-        "rank": 24,
-        "name": "JAN TORRELLA OLLER",
-        "club": "Salomon",
-        "country": "es",
-        "points": 275,
-        "raceCount": 2
-      },
-      {
-        "rank": 25,
-        "name": "ROSS GOLLAN",
-        "club": "Nike Acg",
-        "country": "gb",
-        "points": 273,
-        "raceCount": 4
-      },
-      {
         "rank": 26,
-        "name": "ANDREA ROSTAN",
-        "club": " ",
-        "country": "it",
-        "points": 251,
+        "name": "ROMAIN CHARMEY",
+        "club": "Kinomap",
+        "country": "fr",
+        "points": 210,
         "raceCount": 2
       },
       {
         "rank": 27,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
-        "country": "es",
-        "points": 249,
-        "raceCount": 3
+        "name": "FINN HOSCH",
+        "club": "Dynafit",
+        "country": "de",
+        "points": 150,
+        "raceCount": 1
       },
       {
         "rank": 28,
-        "name": "REMI LEROUX",
-        "club": "Brooks",
-        "country": "ca",
-        "points": 246,
-        "raceCount": 3
-      },
-      {
-        "rank": 29,
-        "name": "MATTIA TANARA",
-        "club": "Scott",
-        "country": "it",
-        "points": 241,
-        "raceCount": 3
-      },
-      {
-        "rank": 30,
-        "name": "MAEL HENRIC",
-        "club": "Salomon",
-        "country": "fr",
-        "points": 206,
+        "name": "NATHAN PEARCE",
+        "club": " ",
+        "country": "au",
+        "points": 149,
         "raceCount": 2
       },
       {
+        "rank": 29,
+        "name": "SANDOR SZABO",
+        "club": " ",
+        "country": "hu",
+        "points": 141,
+        "raceCount": 1
+      },
+      {
+        "rank": 30,
+        "name": "TIZIANO MOIA",
+        "club": "Nnormal",
+        "country": "it",
+        "points": 136,
+        "raceCount": 1
+      },
+      {
         "rank": 31,
-        "name": "ROMAIN CHARMEY",
-        "club": "KINOMAP",
-        "country": "fr",
-        "points": 106,
+        "name": "MIGUEL ALVARADO",
+        "club": "Salomon",
+        "country": "mx",
+        "points": 132,
         "raceCount": 1
       },
       {
         "rank": 32,
+        "name": "JAN FIALA",
+        "club": " ",
+        "country": "cz",
+        "points": 128,
+        "raceCount": 1
+      },
+      {
+        "rank": 33,
+        "name": "PAVOL OROLIN",
+        "club": "Salomon",
+        "country": "sk",
+        "points": 127,
+        "raceCount": 1
+      },
+      {
+        "rank": 34,
+        "name": "MACIEJ LACHOWSKI",
+        "club": "Salomon",
+        "country": "pl",
+        "points": 109,
+        "raceCount": 1
+      },
+      {
+        "rank": 35,
+        "name": "KIM YOUNGJO",
+        "club": "Kolon Sport",
+        "country": "kr",
+        "points": 105,
+        "raceCount": 1
+      },
+      {
+        "rank": 36,
+        "name": "KO MINCHUL",
+        "club": "Acg",
+        "country": "kr",
+        "points": 96,
+        "raceCount": 1
+      },
+      {
+        "rank": 37,
+        "name": "LEE KYUHWAN",
+        "club": "Salomon",
+        "country": "kr",
+        "points": 87,
+        "raceCount": 1
+      },
+      {
+        "rank": 38,
+        "name": "LEE BYUNGDO",
+        "club": "Saucony",
+        "country": "kr",
+        "points": 78,
+        "raceCount": 1
+      },
+      {
+        "rank": 39,
         "name": "FABIÁN VENERO JIMÉNEZ",
         "club": "Salomon",
         "country": "es",
@@ -531,11 +587,187 @@
         "raceCount": 1
       },
       {
-        "rank": 33,
-        "name": "NATHAN PEARCE",
-        "club": "",
-        "country": "au",
-        "points": 58,
+        "rank": 40,
+        "name": "LEE HYEONGMO",
+        "club": "Srs",
+        "country": "kr",
+        "points": 73,
+        "raceCount": 1
+      },
+      {
+        "rank": 41,
+        "name": "JI MYEONGGYU",
+        "club": "Salomon",
+        "country": "kr",
+        "points": 69,
+        "raceCount": 1
+      },
+      {
+        "rank": 42,
+        "name": "KIM DO YUN",
+        "club": " ",
+        "country": "kr",
+        "points": 64,
+        "raceCount": 1
+      },
+      {
+        "rank": 43,
+        "name": "LEE INSIK",
+        "club": "Mtc",
+        "country": "kr",
+        "points": 60,
+        "raceCount": 1
+      },
+      {
+        "rank": 44,
+        "name": "MAREK EFFENBERGER",
+        "club": " ",
+        "country": "cz",
+        "points": 57,
+        "raceCount": 1
+      },
+      {
+        "rank": 45,
+        "name": "KIM DAE SOO",
+        "club": " ",
+        "country": "kr",
+        "points": 54,
+        "raceCount": 1
+      },
+      {
+        "rank": 46,
+        "name": "KANG BYUNGCHUL",
+        "club": " ",
+        "country": "kr",
+        "points": 51,
+        "raceCount": 1
+      },
+      {
+        "rank": 47,
+        "name": "JIRI PETR",
+        "club": "Salomon",
+        "country": "cz",
+        "points": 48,
+        "raceCount": 1
+      },
+      {
+        "rank": 48,
+        "name": "RENWEI LIU",
+        "club": "Mountjoy",
+        "country": "cn",
+        "points": 45,
+        "raceCount": 1
+      },
+      {
+        "rank": 49,
+        "name": "SIM JAEDUK",
+        "club": "The North Face",
+        "country": "kr",
+        "points": 42,
+        "raceCount": 1
+      },
+      {
+        "rank": 50,
+        "name": "CHOI JISU",
+        "club": " ",
+        "country": "kr",
+        "points": 39,
+        "raceCount": 1
+      },
+      {
+        "rank": 51,
+        "name": "RYU JESUN",
+        "club": " ",
+        "country": "kr",
+        "points": 36,
+        "raceCount": 1
+      },
+      {
+        "rank": 52,
+        "name": "KIM SUYONG",
+        "club": "Salomon",
+        "country": "kr",
+        "points": 33,
+        "raceCount": 1
+      },
+      {
+        "rank": 53,
+        "name": "HWANG TEABEOM",
+        "club": "Jeju Orem",
+        "country": "kr",
+        "points": 30,
+        "raceCount": 1
+      },
+      {
+        "rank": 54,
+        "name": "WON HYEONGSEOK",
+        "club": "Salomon",
+        "country": "kr",
+        "points": 27,
+        "raceCount": 1
+      },
+      {
+        "rank": 55,
+        "name": "KIM JONGCHAN",
+        "club": " ",
+        "country": "kr",
+        "points": 24,
+        "raceCount": 1
+      },
+      {
+        "rank": 56,
+        "name": "YOU JAECHEON",
+        "club": " ",
+        "country": "kr",
+        "points": 21,
+        "raceCount": 1
+      },
+      {
+        "rank": 57,
+        "name": "LEE WONJIN",
+        "club": " ",
+        "country": "kr",
+        "points": 18,
+        "raceCount": 1
+      },
+      {
+        "rank": 58,
+        "name": "HYUN DOKYUNG",
+        "club": " ",
+        "country": "kr",
+        "points": 15,
+        "raceCount": 1
+      },
+      {
+        "rank": 59,
+        "name": "CHOE BAEKSU",
+        "club": " ",
+        "country": "kr",
+        "points": 12,
+        "raceCount": 1
+      },
+      {
+        "rank": 60,
+        "name": "THAPANAPHAT PREMJAISUK",
+        "club": " ",
+        "country": "th",
+        "points": 9,
+        "raceCount": 1
+      },
+      {
+        "rank": 61,
+        "name": "KWAK SEUNGHYUN",
+        "club": " ",
+        "country": "kr",
+        "points": 6,
+        "raceCount": 1
+      },
+      {
+        "rank": 62,
+        "name": "CHOI KWANG WOOK",
+        "club": " ",
+        "country": "kr",
+        "points": 3,
         "raceCount": 1
       }
     ],
