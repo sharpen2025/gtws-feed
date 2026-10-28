@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-27T10:45:00+09:00",
-  "updatedDate": "2026-10-27",
-  "updatedTime": "10:45",
+  "updatedAt": "2026-10-28T10:56:00+09:00",
+  "updatedDate": "2026-10-28",
+  "updatedTime": "10:56",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -303,7 +303,7 @@
         "name": "MICHAEL SELELO SAOLI",
         "club": "Run2gether On Trail",
         "country": "ke",
-        "points": 968,
+        "points": 970,
         "raceCount": 6
       },
       {
@@ -327,7 +327,7 @@
         "name": "BOGDAN DAMIAN",
         "club": "Kailas Fuga",
         "country": "ro",
-        "points": 812,
+        "points": 814,
         "raceCount": 7
       },
       {
@@ -461,7 +461,7 @@
       {
         "rank": 24,
         "name": "LUIS JAVIER GONZÁLEZ",
-        "club": "Media (El País)",
+        "club": " ",
         "country": "es",
         "points": 331,
         "raceCount": 4
@@ -471,13 +471,13 @@
         "name": "PAUL MACHOKA",
         "club": "Atletica Saluzzo",
         "country": "ke",
-        "points": 296,
+        "points": 298,
         "raceCount": 2
       },
       {
         "rank": 26,
         "name": "ROMAIN CHARMEY",
-        "club": "KINOMAP",
+        "club": "Kinomap",
         "country": "fr",
         "points": 210,
         "raceCount": 2
@@ -493,7 +493,7 @@
       {
         "rank": 28,
         "name": "NATHAN PEARCE",
-        "club": "",
+        "club": " ",
         "country": "au",
         "points": 149,
         "raceCount": 2
