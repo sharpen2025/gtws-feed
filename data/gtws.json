@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-28T10:56:00+09:00",
-  "updatedDate": "2026-10-28",
-  "updatedTime": "10:56",
+  "updatedAt": "2026-10-29T11:01:00+09:00",
+  "updatedDate": "2026-10-29",
+  "updatedTime": "11:01",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -357,7 +357,7 @@
       {
         "rank": 11,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 729,
         "raceCount": 5
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -493,7 +493,7 @@
       {
         "rank": 28,
         "name": "NATHAN PEARCE",
-        "club": " ",
+        "club": "",
         "country": "au",
         "points": 149,
         "raceCount": 2
