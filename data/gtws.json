@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T11:01:00+09:00",
-  "updatedDate": "2026-10-29",
-  "updatedTime": "11:01",
+  "updatedAt": "2026-10-30T11:17:00+09:00",
+  "updatedDate": "2026-10-30",
+  "updatedTime": "11:17",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -357,7 +357,7 @@
       {
         "rank": 11,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
+        "club": "",
         "country": "mx",
         "points": 729,
         "raceCount": 5
@@ -405,7 +405,7 @@
       {
         "rank": 17,
         "name": "ANDERS KJÆREVIK",
-        "club": "Vj/Saysky",
+        "club": "",
         "country": "no",
         "points": 565,
         "raceCount": 6
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": " ",
+        "club": "",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -429,7 +429,7 @@
       {
         "rank": 20,
         "name": "ANDREA ROSTAN",
-        "club": " ",
+        "club": "La Sportiva",
         "country": "it",
         "points": 419,
         "raceCount": 3
