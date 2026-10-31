@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-30T11:17:00+09:00",
-  "updatedDate": "2026-10-30",
-  "updatedTime": "11:17",
+  "updatedAt": "2026-10-31T10:56:00+09:00",
+  "updatedDate": "2026-10-31",
+  "updatedTime": "10:56",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -55,7 +55,7 @@
       "country": "cn",
       "series": "National Series",
       "name": "NINE PEAKS GRANDMASTER CHALLENGE BY TSAIGU",
-      "tagline": "China’s Sierre-Zinal",
+      "tagline": "Become a master!",
       "distance": "2,079 km",
       "elevation": "30 m",
       "capacity": "1,800",
@@ -405,7 +405,7 @@
       {
         "rank": 17,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 565,
         "raceCount": 6
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -429,7 +429,7 @@
       {
         "rank": 20,
         "name": "ANDREA ROSTAN",
-        "club": "La Sportiva",
+        "club": " ",
         "country": "it",
         "points": 419,
         "raceCount": 3
