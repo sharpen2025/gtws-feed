@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T11:58:00+09:00",
-  "updatedDate": "2026-11-05",
-  "updatedTime": "11:58",
+  "updatedAt": "2026-11-06T11:59:00+09:00",
+  "updatedDate": "2026-11-06",
+  "updatedTime": "11:59",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -13,7 +13,7 @@
   "races": [
     {
       "date": "08/03/2026",
-      "country": "au",
+      "country": "",
       "series": "National Series",
       "name": "WARBURTON TRAIL FESTIVAl",
       "tagline": "Donna Double",
@@ -21,12 +21,12 @@
       "elevation": "1,333 m",
       "capacity": "",
       "url": "https://goldentrailseries.com/race/warburton-trail-festival/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NEW-SAVE-Salomon-Warburton-Trail-Fest-2546-1.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NEW-SAVE-Salomon-Warburton-Trail-Fest-2546-1-768x512.webp",
       "dateISO": "2026-03-08"
     },
     {
       "date": "15/03/2026",
-      "country": "cn",
+      "country": "",
       "series": "National Series",
       "name": "TRAIL DONGHAI",
       "tagline": "The Coastal Course",
@@ -34,12 +34,12 @@
       "elevation": "1,412 m",
       "capacity": "2,000",
       "url": "https://goldentrailseries.com/race/trail-donghai/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-微信图片_20251218183727_24_154.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-微信图片_20251218183727_24_154-768x1152.webp",
       "dateISO": "2026-03-15"
     },
     {
       "date": "22/03/2026",
-      "country": "fr",
+      "country": "",
       "series": "National Series",
       "name": "SALOMON ECOTRAIL PARIS",
       "tagline": "The Urban Wild",
@@ -47,12 +47,12 @@
       "elevation": "830 m",
       "capacity": "2,000",
       "url": "https://goldentrailseries.com/race/salomon-ecotrail-paris/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/Salomon-Ecotrail-Paris-6.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/Salomon-Ecotrail-Paris-6-768x576.webp",
       "dateISO": "2026-03-22"
     },
     {
       "date": "19/04/2026",
-      "country": "cn",
+      "country": "",
       "series": "National Series",
       "name": "NINE PEAKS GRANDMASTER CHALLENGE BY TSAIGU",
       "tagline": "Become a master!",
@@ -60,12 +60,12 @@
       "elevation": "30 m",
       "capacity": "1,800",
       "url": "https://goldentrailseries.com/race/nine-peaks-grandmaster-challenge-by-tsaigu/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NINE-PEAKS-GRANDMASTER-CHALLENGE-BY-TSAIGU-2.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/NINE-PEAKS-GRANDMASTER-CHALLENGE-BY-TSAIGU-2-768x1152.webp",
       "dateISO": "2026-04-19"
     },
     {
       "date": "26/04/2026",
-      "country": "cn",
+      "country": "",
       "series": "National Series",
       "name": "YANG JIANG YANGCHUN JILONGDING AZALEA TRAIL RUNNING RACE",
       "tagline": "Blooming mountain adventure",
@@ -73,12 +73,12 @@
       "elevation": "1,529 m",
       "capacity": "1,500",
       "url": "https://goldentrailseries.com/race/yang-jiang-yangchun-jilongding-azalea-trail-running-race/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/YANG-JIANG-YANGCHUN-JILONGDING-AZALEA-TRAIL-RUNNING-RACE-2.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/YANG-JIANG-YANGCHUN-JILONGDING-AZALEA-TRAIL-RUNNING-RACE-2-768x768.webp",
       "dateISO": "2026-04-26"
     },
     {
       "date": "17/05/2026",
-      "country": "es",
+      "country": "",
       "series": "World Series",
       "name": "ZEGAMA – AIZKORRI",
       "tagline": "The Basque Fever",
@@ -86,12 +86,12 @@
       "elevation": "2,745 m",
       "capacity": "500",
       "url": "https://goldentrailseries.com/race/zegama-aizkorri/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@Rising.Story-@JustinGalant_Zegama_25-05-25-169.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@Rising.Story-@JustinGalant_Zegama_25-05-25-169-768x512.webp",
       "dateISO": "2026-05-17"
     },
     {
       "date": "17/05/2026",
-      "country": "cn",
+      "country": "",
       "series": "National Series",
       "name": "CFTT SHENNONGJIA ULTRA RACE (S-ULTRA)",
       "tagline": "The four seasons race",
@@ -99,12 +99,12 @@
       "elevation": "2,186 m",
       "capacity": "1,300",
       "url": "https://goldentrailseries.com/race/cftt-shennongjia-ultra-race/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/CFTT-SHENNONGJIA-ULTRA-RACE-S-ULTRA-1.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/CFTT-SHENNONGJIA-ULTRA-RACE-S-ULTRA-1-768x768.webp",
       "dateISO": "2026-05-17"
     },
     {
       "date": "24/05/2026",
-      "country": "it",
+      "country": "",
       "series": "World Series",
       "name": "LEDRO SKY TRENTINO",
       "tagline": "Wild peaks, trenchline trails",
@@ -112,12 +112,12 @@
       "elevation": "1,775 m",
       "capacity": "500",
       "url": "https://goldentrailseries.com/race/ledro-sky-trentino/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@antho.dx_Ledro_Sky_12-10-2025-09371-2.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@antho.dx_Ledro_Sky_12-10-2025-09371-2-768x512.webp",
       "dateISO": "2026-05-24"
     },
     {
       "date": "30/05/2026",
-      "country": "cn",
+      "country": "",
       "series": "National Series",
       "name": "FOUR SISTERS MOUNTAIN MECONOPSIS TRAIL",
       "tagline": "GTNS China Grand Finale",
@@ -125,12 +125,12 @@
       "elevation": "1,407 m",
       "capacity": "500",
       "url": "https://goldentrailseries.com/race/four-sisters-mountain-meconopsis-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/four-sisters-mountain-race-1.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/four-sisters-mountain-race-1-768x513.webp",
       "dateISO": "2026-05-30"
     },
     {
       "date": "05/07/2026",
-      "country": "ca",
+      "country": "",
       "series": "World Series",
       "name": "QUÉBEC MEGA TRAIL",
       "tagline": "The Beast of the East",
@@ -138,12 +138,12 @@
       "elevation": "1.397 m",
       "capacity": "500",
       "url": "https://goldentrailseries.com/race/quebec-mega-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/QMT-2023-Credit-QMT-scaled.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/QMT-2023-Credit-QMT-768x432.webp",
       "dateISO": "2026-07-05"
     },
     {
       "date": "12/07/2026",
-      "country": "it",
+      "country": "",
       "series": "National Series",
       "name": "DOLOMYTHS RUN",
       "tagline": "From the heart of Canazei to the sky of Piz Boè",
@@ -151,12 +151,12 @@
       "elevation": "1,764 m",
       "capacity": "800",
       "url": "https://goldentrailseries.com/race/dolomyths-run/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-DJI_20250421083600_0070_D.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-DJI_20250421083600_0070_D-768x576.webp",
       "dateISO": "2026-07-12"
     },
     {
       "date": "17/07/2026",
-      "country": "pl",
+      "country": "",
       "series": "National Series",
       "name": "GOLDEN MOUNTAINS TRAIL",
       "tagline": "The trail festival",
@@ -164,12 +164,12 @@
       "elevation": "1,500 m",
       "capacity": "750",
       "url": "https://goldentrailseries.com/race/golden-mountains-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-NA-TRASIE-1.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-NA-TRASIE-1-768x512.webp",
       "dateISO": "2026-07-17"
     },
     {
       "date": "01/08/2026",
-      "country": "at",
+      "country": "",
       "series": "World Series",
       "name": "SALOMON PITZ ALPINE GLACIER TRAIL",
       "tagline": "Where glaciers meet the sky",
@@ -177,12 +177,12 @@
       "elevation": "1,618 m",
       "capacity": "",
       "url": "https://goldentrailseries.com/race/salomon-pitz-alpine-glacier-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_PitzAlpineGlacier_02-08-25-196.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_PitzAlpineGlacier_02-08-25-196-768x512.webp",
       "dateISO": "2026-08-01"
     },
     {
       "date": "08/08/2026",
-      "country": "ch",
+      "country": "",
       "series": "World Series",
       "name": "SIERRE-ZINAL",
       "tagline": "Fast and furious",
@@ -190,12 +190,12 @@
       "elevation": "2,133 m",
       "capacity": "6,300",
       "url": "https://goldentrailseries.com/race/sierre-zinal/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_SierreZinal_09-08-25-62.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/@rising.story_@justingalant_SierreZinal_09-08-25-62-768x512.webp",
       "dateISO": "2026-08-08"
     },
     {
       "date": "08/08/2026",
-      "country": "mx",
+      "country": "",
       "series": "National Series",
       "name": "TEPEC TRAIL ZAPOTITLAN SALINAS",
       "tagline": "Magic Mountains",
@@ -203,12 +203,12 @@
       "elevation": "1,800 m",
       "capacity": "450",
       "url": "https://goldentrailseries.com/race/tepec-trail-zapotitlan-salinas/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/MF_012826_Zapotitlan_0196.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/MF_012826_Zapotitlan_0196-768x512.webp",
       "dateISO": "2026-08-08"
     },
     {
       "date": "22/08/2026",
-      "country": "cz",
+      "country": "",
       "series": "National Series",
       "name": "SALOMON JESENICKY MARATON",
       "tagline": "A dreamy landscape",
@@ -216,12 +216,12 @@
       "elevation": "730 m",
       "capacity": "",
       "url": "https://goldentrailseries.com/race/salomon-jesenicky-maraton/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-JM_3.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-JM_3-768x511.webp",
       "dateISO": "2026-08-22"
     },
     {
       "date": "20/09/2026",
-      "country": "jp",
+      "country": "",
       "series": "World Series",
       "name": "MYOKO TRAIL",
       "tagline": "Double up, double down",
@@ -229,12 +229,12 @@
       "elevation": "2,020 m",
       "capacity": "400",
       "url": "https://goldentrailseries.com/race/myoko-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/2022_myoko_072.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/2022_myoko_072-768x513.webp",
       "dateISO": "2026-09-20"
     },
     {
       "date": "27/09/2026",
-      "country": "cn",
+      "country": "",
       "series": "World Series",
       "name": "JINSHANLING GREAT WALL TRAIL RACE",
       "tagline": "The Wonderwall",
@@ -242,12 +242,12 @@
       "elevation": "1,667 m",
       "capacity": "3,000",
       "url": "https://goldentrailseries.com/race/jinshanling-great-wall-trail-race/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/web-@rising.story-@mathisdecroux_GreatWallChina_04-26-00172.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/web-@rising.story-@mathisdecroux_GreatWallChina_04-26-00172-768x512.webp",
       "dateISO": "2026-09-27"
     },
     {
       "date": "04/10/2026",
-      "country": "es",
+      "country": "",
       "series": "National Series",
       "name": "SALOMON MITJA PIRINEU",
       "tagline": "The best views of Pedraforca",
@@ -255,12 +255,12 @@
       "elevation": "1,400 m",
       "capacity": "1,000",
       "url": "https://goldentrailseries.com/race/salomon-mitja-pirineu/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-MITJA_PIRINEU_Gerard_Campderros-94-768x513.webp",
       "dateISO": "2026-10-04"
     },
     {
       "date": "24/10/2026",
-      "country": "kr",
+      "country": "",
       "series": "World Series",
       "name": "MUJU TRAIL GRAND FINALE",
       "tagline": "Stitched by strides",
@@ -268,7 +268,7 @@
       "elevation": "2,408 m",
       "capacity": "5,000",
       "url": "https://goldentrailseries.com/race/muju-trail/",
-      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1.jpg",
+      "image": "https://goldentrailseries.com/wp-content/uploads/2026/05/WEB-Deogyusan-Landscape-1-768x512.webp",
       "dateISO": "2026-10-24"
     }
   ],
@@ -405,7 +405,7 @@
       {
         "rank": 17,
         "name": "ANDERS KJÆREVIK",
-        "club": "Vj/Saysky",
+        "club": "",
         "country": "no",
         "points": 565,
         "raceCount": 6
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": " ",
+        "club": "",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -461,7 +461,7 @@
       {
         "rank": 24,
         "name": "LUIS JAVIER GONZÁLEZ",
-        "club": " ",
+        "club": "",
         "country": "es",
         "points": 331,
         "raceCount": 4
