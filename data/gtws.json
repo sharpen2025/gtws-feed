@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-06T11:59:00+09:00",
-  "updatedDate": "2026-11-06",
-  "updatedTime": "11:59",
+  "updatedAt": "2026-11-07T11:28:00+09:00",
+  "updatedDate": "2026-11-07",
+  "updatedTime": "11:28",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -405,7 +405,7 @@
       {
         "rank": 17,
         "name": "ANDERS KJÆREVIK",
-        "club": "",
+        "club": "Vj/Saysky",
         "country": "no",
         "points": 565,
         "raceCount": 6
@@ -460,7 +460,7 @@
       },
       {
         "rank": 24,
-        "name": "LUIS JAVIER GONZÁLEZ",
+        "name": "LUIS JAVIER GONZALEZ",
         "club": "",
         "country": "es",
         "points": 331,
@@ -477,7 +477,7 @@
       {
         "rank": 26,
         "name": "ROMAIN CHARMEY",
-        "club": "Kinomap",
+        "club": "KINOMAP",
         "country": "fr",
         "points": 210,
         "raceCount": 2
