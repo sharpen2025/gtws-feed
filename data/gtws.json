@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T11:15:00+09:00",
-  "updatedDate": "2026-11-09",
-  "updatedTime": "11:15",
+  "updatedAt": "2026-11-10T13:26:00+09:00",
+  "updatedDate": "2026-11-10",
+  "updatedTime": "13:26",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -357,7 +357,7 @@
       {
         "rank": 11,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": " ",
+        "club": "",
         "country": "mx",
         "points": 729,
         "raceCount": 5
@@ -429,7 +429,7 @@
       {
         "rank": 20,
         "name": "ANDREA ROSTAN",
-        "club": " ",
+        "club": "La Sportiva",
         "country": "it",
         "points": 419,
         "raceCount": 3
