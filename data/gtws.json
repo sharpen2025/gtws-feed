@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-12T12:30:00+09:00",
-  "updatedDate": "2026-11-12",
-  "updatedTime": "12:30",
+  "updatedAt": "2026-11-13T12:03:00+09:00",
+  "updatedDate": "2026-11-13",
+  "updatedTime": "12:03",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -460,8 +460,8 @@
       },
       {
         "rank": 24,
-        "name": "LUIS JAVIER GONZÁLEZ",
-        "club": "Media (El País)",
+        "name": "LUIS JAVIER GONZALEZ",
+        "club": "",
         "country": "es",
         "points": 331,
         "raceCount": 4
