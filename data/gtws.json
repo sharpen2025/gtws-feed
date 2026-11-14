@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T12:03:00+09:00",
-  "updatedDate": "2026-11-13",
-  "updatedTime": "12:03",
+  "updatedAt": "2026-11-14T11:49:00+09:00",
+  "updatedDate": "2026-11-14",
+  "updatedTime": "11:49",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -357,7 +357,7 @@
       {
         "rank": 11,
         "name": "BRAYAN RODRÍGUEZ",
-        "club": "",
+        "club": " ",
         "country": "mx",
         "points": 729,
         "raceCount": 5
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -460,8 +460,8 @@
       },
       {
         "rank": 24,
-        "name": "LUIS JAVIER GONZALEZ",
-        "club": "",
+        "name": "LUIS JAVIER GONZÁLEZ",
+        "club": " ",
         "country": "es",
         "points": 331,
         "raceCount": 4
@@ -477,7 +477,7 @@
       {
         "rank": 26,
         "name": "ROMAIN CHARMEY",
-        "club": "KINOMAP",
+        "club": "Kinomap",
         "country": "fr",
         "points": 210,
         "raceCount": 2
