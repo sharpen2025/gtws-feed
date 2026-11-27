@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-26T13:37:00+09:00",
-  "updatedDate": "2026-11-26",
-  "updatedTime": "13:37",
+  "updatedAt": "2026-11-27T13:40:00+09:00",
+  "updatedDate": "2026-11-27",
+  "updatedTime": "13:40",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": "",
+        "club": " ",
         "country": "jp",
         "points": 532,
         "raceCount": 5
@@ -429,7 +429,7 @@
       {
         "rank": 20,
         "name": "ANDREA ROSTAN",
-        "club": " ",
+        "club": "La Sportiva",
         "country": "it",
         "points": 419,
         "raceCount": 3
@@ -461,7 +461,7 @@
       {
         "rank": 24,
         "name": "LUIS JAVIER GONZÁLEZ",
-        "club": "Media (El País)",
+        "club": " ",
         "country": "es",
         "points": 331,
         "raceCount": 4
@@ -477,7 +477,7 @@
       {
         "rank": 26,
         "name": "ROMAIN CHARMEY",
-        "club": "KINOMAP",
+        "club": "Kinomap",
         "country": "fr",
         "points": 210,
         "raceCount": 2
