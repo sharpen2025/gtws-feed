@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T13:40:00+09:00",
-  "updatedDate": "2026-11-27",
-  "updatedTime": "13:40",
+  "updatedAt": "2026-11-28T13:25:00+09:00",
+  "updatedDate": "2026-11-28",
+  "updatedTime": "13:25",
   "edition": 2026,
   "counts": {
     "nextUp": 0,
@@ -413,7 +413,7 @@
       {
         "rank": 18,
         "name": "TAIGA YAMAGUCHI",
-        "club": " ",
+        "club": "",
         "country": "jp",
         "points": 532,
         "raceCount": 5
